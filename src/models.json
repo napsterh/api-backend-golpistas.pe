@@ -1,0 +1,92 @@
+[
+    {
+        "id" : 1,
+        "provincia" : "Pomabamba",
+        "distrito" : "Parobamba",
+        "location" : {
+            "lat": -8.811931,
+            "lng": -77.454902
+        },
+        "confirmados" : 0,
+        "fallecidos" : 0,
+        "recuperados" : 0,
+        "sexo" : {
+            "masculino" : 0,
+            "femenino" : 0
+        },
+        "edad" : {
+            "ninio": 0,
+            "joven": 0,
+            "adulto": 0,
+            "adulto_mayor": 0
+        }
+    },
+    {
+        "id" : 2,
+        "provincia": "Pomabamba",
+        "distrito" : "Quinuabamba",
+        "location" : {
+            "lat": -8.811931,
+            "lng": -77.454902
+        },
+        "confirmados" : 1,
+        "fallecidos" : 0,
+        "recuperados" : 0,
+        "sexo" : {
+            "masculino" : 0,
+            "femenino" : 1
+        },
+        "edad" : {
+            "ninio": 0,
+            "joven": 1,
+            "adulto": 0,
+            "adulto_mayor": 0
+        }
+    },
+    {
+        "id" : 3,
+        "provincia": "Pomabamba",
+        "distrito" : "Huayllán",
+        "location" : {
+            "lat": -8.811931,
+            "lng": -77.454902
+        },
+        "confirmados" : 1,
+        "fallecidos" : 0,
+        "recuperados" : 0,
+        "sexo" : {
+            "masculino" : 1,
+            "femenino" : 0
+        },
+        "edad" : {
+            "ninio": 0,
+            "joven": 1,
+            "adulto": 0,
+            "adulto_mayor": 0
+        }
+    },
+    {
+        "id" : 4,
+        "provincia": "Pomabamba",
+        "distrito" : "Pomabamba",
+        "location" : {
+            "lat": -8.811931,
+            "lng": -77.454902
+        },
+        "confirmados" : 3,
+        "fallecidos" : 0,
+        "recuperados" : 0,
+        "sexo" : {
+            "masculino" : 2,
+            "femenino" : 1
+        },
+        "edad" : {
+            "ninio": 0,
+            "joven": 2,
+            "adulto": 1,
+            "adulto_mayor": 0
+        }
+    }
+
+]
+
