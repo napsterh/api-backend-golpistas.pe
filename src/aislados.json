@@ -1,0 +1,112 @@
+[
+    {
+        "id" : 1,
+        "provincia" : "Pomabamba",
+        "location":{
+            "lat": -8.827251,
+            "lng": -77.455334
+        },
+        "descripcion" : "Escuela Taller Don Bosco",
+        "cantidad" : 69
+    },
+    {
+        "id" : 2,
+        "provincia" : "Pomabamba",
+        "location":{
+            "lat": -8.819562,
+            "lng": -77.458694
+        },
+        "descripcion" : "Hotel el Mirador",
+        "cantidad" : 42
+    },
+    {
+        "id" : 3,
+        "provincia" : "Pomabamba",
+        "location":{
+            "lat": -8.821057,
+            "lng": -77.456429
+        },
+        "descripcion" : "I.E. Rosenda Sánchez",
+        "cantidad" : 19
+    },
+    {
+        "id" : 4,
+        "provincia" : "Parobamba",
+        "location":{
+            "lat": -8.705389,
+            "lng": -77.377428
+        },
+        "descripcion" : "I.E. Luis Tarazona N.",
+        "cantidad" : 33
+    },
+    {
+        "id" : 5,
+        "provincia" : "Parobamba",
+        "location":{
+            "lat": -8.709928,
+            "lng": -77.376741
+        },
+        "descripcion" : "I.E. Huanchayllo",
+        "cantidad" : 100
+    },
+    {
+        "id" : 6,
+        "provincia" : "Parobamba",
+        "location":{
+            "lat": -8.709314,
+            "lng": -77.373168
+        },
+        "descripcion" : "I.E. Changa",
+        "cantidad" : 34
+    },
+    {
+        "id" : 7,
+        "provincia" : "Parobamba",
+        "location":{
+            "lat": -8.706930,
+            "lng": -77.372268
+        },
+        "descripcion" : "I.E. Cajas",
+        "cantidad" : 7
+    },
+    {
+        "id" : 8,
+        "provincia" : "Parobamba",
+        "location":{
+            "lat": -8.708224,
+            "lng": -77.374124
+        },
+        "descripcion" : "I.E. Shuypillay",
+        "cantidad" : 37
+    },
+    {
+        "id" : 9,
+        "provincia" : "Parobamba",
+        "location":{
+            "lat": -8.710458,
+            "lng": -77.370724
+        },
+        "descripcion" : "I.E. Shumpillan",
+        "cantidad" : 23
+    },
+    {
+        "id" : 10,
+        "provincia" : "Quinuabamba",
+        "location":{
+            "lat": -8.697859,
+            "lng": -77.398198
+        },
+        "descripcion" : "Mercado Municipal",
+        "cantidad" : 42
+    },
+    {
+        "id" : 11,
+        "provincia" : "Huayllán",
+        "location":{
+            "lat": -8.850416,
+            "lng": -77.438395
+        },
+        "descripcion" : "I:E: Efrain Roca G.",
+        "cantidad" : 27
+    }
+]

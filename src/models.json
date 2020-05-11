@@ -4,8 +4,8 @@
         "provincia" : "Pomabamba",
         "distrito" : "Parobamba",
         "location" : {
-            "lat": -8.811931,
-            "lng": -77.454902
+            "lat": -8.708224,
+            "lng": -77.374124
         },
         "confirmados" : 0,
         "fallecidos" : 0,
@@ -26,8 +26,8 @@
         "provincia": "Pomabamba",
         "distrito" : "Quinuabamba",
         "location" : {
-            "lat": -8.811931,
-            "lng": -77.454902
+            "lat": -8.697353,
+            "lng": -77.398506
         },
         "confirmados" : 1,
         "fallecidos" : 0,
@@ -48,8 +48,8 @@
         "provincia": "Pomabamba",
         "distrito" : "Huayllán",
         "location" : {
-            "lat": -8.811931,
-            "lng": -77.454902
+            "lat": -8.857993,
+            "lng": -77.435588
         },
         "confirmados" : 1,
         "fallecidos" : 0,
@@ -70,8 +70,8 @@
         "provincia": "Pomabamba",
         "distrito" : "Pomabamba",
         "location" : {
-            "lat": -8.811931,
-            "lng": -77.454902
+            "lat": -8.820954,
+            "lng": -77.460313
         },
         "confirmados" : 3,
         "fallecidos" : 0,

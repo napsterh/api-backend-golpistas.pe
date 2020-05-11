@@ -13,6 +13,7 @@ app.use(express.json());
 // routes
 app.use(require('./routes/index'));
 app.use('/api/casos', require('./routes/casos'));
+app.use('/api/aislados', require('./routes/aislados'));
 
 //strating server
 app.listen(app.get('port'), () => {
