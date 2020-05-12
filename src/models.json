@@ -108,6 +108,28 @@
             "adulto": 1,
             "adulto_mayor": 0
         }
+    },
+    {
+        "id" : 5,
+        "provincia": "Sihuas",
+        "distrito" : "Sihuas",
+        "location" : {
+            "lat": -8.552750,
+            "lng": -77.632000
+        },
+        "confirmados" : 6,
+        "fallecidos" : 0,
+        "recuperados" : 0,
+        "sexo" : {
+            "masculino" : "-",
+            "femenino" : "-"
+        },
+        "edad" : {
+            "ninio": 0,
+            "joven": 2,
+            "adulto": 1,
+            "adulto_mayor": 0
+        }
     }
 
 ]
