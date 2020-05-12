@@ -7,12 +7,12 @@
             "lat": -8.708224,
             "lng": -77.374124
         },
-        "confirmados" : 0,
+        "confirmados" : 1,
         "fallecidos" : 0,
         "recuperados" : 0,
         "sexo" : {
-            "masculino" : 0,
-            "femenino" : 0
+            "masculino" : "-",
+            "femenino" : "-"
         },
         "edad" : {
             "ninio": 0,
@@ -79,6 +79,28 @@
         "sexo" : {
             "masculino" : 2,
             "femenino" : 1
+        },
+        "edad" : {
+            "ninio": 0,
+            "joven": 2,
+            "adulto": 1,
+            "adulto_mayor": 0
+        }
+    },
+    {
+        "id" : 5,
+        "provincia": "Piscobamba",
+        "distrito" : "Piscobamba",
+        "location" : {
+            "lat": -8.865763,
+            "lng": -77.354355
+        },
+        "confirmados" : 6,
+        "fallecidos" : 0,
+        "recuperados" : 0,
+        "sexo" : {
+            "masculino" : "-",
+            "femenino" : "-"
         },
         "edad" : {
             "ninio": 0,
