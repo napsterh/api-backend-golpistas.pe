@@ -4,8 +4,8 @@
         "provincia" : "Pomabamba",
         "distrito" : "Parobamba",
         "location" : {
-            "lat": -8.708224,
-            "lng": -77.374124
+            "lat": -8.708190,
+            "lng": -77.374127
         },
         "confirmados" : 1,
         "fallecidos" : 0,
