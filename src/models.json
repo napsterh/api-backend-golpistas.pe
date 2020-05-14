@@ -3,6 +3,7 @@
         "id" : 1,
         "provincia" : "Pomabamba",
         "distrito" : "Parobamba",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/lugar-casos/parobamba.jpg",
         "location" : {
             "lat": -8.708190,
             "lng": -77.374127
@@ -25,6 +26,7 @@
         "id" : 2,
         "provincia": "Pomabamba",
         "distrito" : "Quinuabamba",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/lugar-casos/quinuabamba.jpg",
         "location" : {
             "lat": -8.697353,
             "lng": -77.398506
@@ -47,6 +49,7 @@
         "id" : 3,
         "provincia": "Pomabamba",
         "distrito" : "Huayllán",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/lugar-casos/huayllan.jpg",
         "location" : {
             "lat": -8.857993,
             "lng": -77.435588
@@ -69,6 +72,7 @@
         "id" : 4,
         "provincia": "Pomabamba",
         "distrito" : "Pomabamba",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/lugar-casos/pomabamba.jpg",
         "location" : {
             "lat": -8.820954,
             "lng": -77.460313
@@ -91,6 +95,7 @@
         "id" : 5,
         "provincia": "Piscobamba",
         "distrito" : "Piscobamba",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/lugar-casos/piscobamba.jpg",
         "location" : {
             "lat": -8.865763,
             "lng": -77.354355
@@ -110,9 +115,10 @@
         }
     },
     {
-        "id" : 5,
+        "id" : 6,
         "provincia": "Sihuas",
         "distrito" : "Sihuas",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/lugar-casos/sihuas.jpg",
         "location" : {
             "lat": -8.552750,
             "lng": -77.632000

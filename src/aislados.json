@@ -7,6 +7,7 @@
             "lng": -77.455334
         },
         "descripcion" : "Escuela Taller Don Bosco",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/centro-aislamiento/taller-don.bosco.jpg",
         "cantidad" : 69
     },
     {
@@ -17,6 +18,7 @@
             "lng": -77.458694
         },
         "descripcion" : "Hotel el Mirador",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/centro-aislamiento/hotel-mirador.jpg",
         "cantidad" : 42
     },
     {
@@ -27,6 +29,7 @@
             "lng": -77.456429
         },
         "descripcion" : "I.E. Rosenda Sánchez",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/centro-aislamiento/rosenda.jpg",
         "cantidad" : 19
     },
     {
@@ -37,6 +40,7 @@
             "lng": -77.377428
         },
         "descripcion" : "I.E. Luis Tarazona N.",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/centro-aislamiento/ie-luis-tarazona-negreiros-parobamba.jpg",
         "cantidad" : 33
     },
     {
@@ -47,6 +51,7 @@
             "lng": -77.376741
         },
         "descripcion" : "I.E. Huanchayllo",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/centro-aislamiento/school-default.png",
         "cantidad" : 100
     },
     {
@@ -57,6 +62,7 @@
             "lng": -77.373168
         },
         "descripcion" : "I.E. Changa",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/centro-aislamiento/school-default.png",
         "cantidad" : 34
     },
     {
@@ -67,6 +73,7 @@
             "lng": -77.372268
         },
         "descripcion" : "I.E. Cajas",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/centro-aislamiento/school-default.png",
         "cantidad" : 7
     },
     {
@@ -77,6 +84,7 @@
             "lng": -77.374124
         },
         "descripcion" : "I.E. Shuypillay",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/centro-aislamiento/school-default.png",
         "cantidad" : 37
     },
     {
@@ -87,6 +95,7 @@
             "lng": -77.370724
         },
         "descripcion" : "I.E. Shumpillan",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/centro-aislamiento/school-default.png",
         "cantidad" : 23
     },
     {
@@ -97,6 +106,7 @@
             "lng": -77.398198
         },
         "descripcion" : "Mercado Municipal",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/centro-aislamiento/school-default.png",
         "cantidad" : 42
     },
     {
@@ -106,7 +116,8 @@
             "lat": -8.850416,
             "lng": -77.438395
         },
-        "descripcion" : "I:E: Efrain Roca G.",
+        "descripcion" : "I.E. Efrain Roca G.",
+        "imagen" : "https://covid-19-pbba.s3.amazonaws.com/centro-aislamiento/school-default.png",
         "cantidad" : 27
     }
 ]
