@@ -77,12 +77,12 @@
             "lat": -8.820954,
             "lng": -77.460313
         },
-        "confirmados" : 3,
+        "confirmados" : 4,
         "fallecidos" : 0,
         "recuperados" : 0,
         "sexo" : {
-            "masculino" : 2,
-            "femenino" : 1
+            "masculino" : "-",
+            "femenino" : "-"
         },
         "edad" : {
             "ninio": 0,
@@ -100,7 +100,7 @@
             "lat": -8.865763,
             "lng": -77.354355
         },
-        "confirmados" : 6,
+        "confirmados" : 7,
         "fallecidos" : 0,
         "recuperados" : 1,
         "sexo" : {
