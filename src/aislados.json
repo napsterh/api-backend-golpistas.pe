@@ -8,7 +8,7 @@
         },
         "descripcion" : "Escuela Taller Don Bosco",
         "imagen" : "https://covid-19-pbba.s3.amazonaws.com/centro-aislamiento/taller-don.bosco.jpg",
-        "cantidad" : 69
+        "cantidad" : "Dados de alta"
     },
     {
         "id" : 2,
@@ -19,7 +19,7 @@
         },
         "descripcion" : "Hotel el Mirador",
         "imagen" : "https://covid-19-pbba.s3.amazonaws.com/centro-aislamiento/hotel-mirador.jpg",
-        "cantidad" : 42
+        "cantidad" : "Dados de alta"
     },
     {
         "id" : 3,
@@ -30,7 +30,7 @@
         },
         "descripcion" : "I.E. Rosenda Sánchez",
         "imagen" : "https://covid-19-pbba.s3.amazonaws.com/centro-aislamiento/rosenda.jpg",
-        "cantidad" : 19
+        "cantidad" : "Dados de alta"
     },
     {
         "id" : 4,

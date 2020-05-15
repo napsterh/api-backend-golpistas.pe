@@ -102,7 +102,7 @@
         },
         "confirmados" : 6,
         "fallecidos" : 0,
-        "recuperados" : 0,
+        "recuperados" : 1,
         "sexo" : {
             "masculino" : "-",
             "femenino" : "-"
