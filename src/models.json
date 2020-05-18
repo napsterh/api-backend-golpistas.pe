@@ -10,17 +10,7 @@
         },
         "confirmados" : 1,
         "fallecidos" : 0,
-        "recuperados" : 0,
-        "sexo" : {
-            "masculino" : "-",
-            "femenino" : "-"
-        },
-        "edad" : {
-            "ninio": 0,
-            "joven": 0,
-            "adulto": 0,
-            "adulto_mayor": 0
-        }
+        "recuperados" : 0
     },
     {
         "id" : 2,
@@ -33,17 +23,7 @@
         },
         "confirmados" : 1,
         "fallecidos" : 0,
-        "recuperados" : 0,
-        "sexo" : {
-            "masculino" : 0,
-            "femenino" : 1
-        },
-        "edad" : {
-            "ninio": 0,
-            "joven": 1,
-            "adulto": 0,
-            "adulto_mayor": 0
-        }
+        "recuperados" : 0
     },
     {
         "id" : 3,
@@ -56,17 +36,7 @@
         },
         "confirmados" : 1,
         "fallecidos" : 0,
-        "recuperados" : 0,
-        "sexo" : {
-            "masculino" : 1,
-            "femenino" : 0
-        },
-        "edad" : {
-            "ninio": 0,
-            "joven": 1,
-            "adulto": 0,
-            "adulto_mayor": 0
-        }
+        "recuperados" : 0
     },
     {
         "id" : 4,
@@ -79,17 +49,7 @@
         },
         "confirmados" : 5,
         "fallecidos" : 0,
-        "recuperados" : 0,
-        "sexo" : {
-            "masculino" : "-",
-            "femenino" : "-"
-        },
-        "edad" : {
-            "ninio": 0,
-            "joven": 2,
-            "adulto": 1,
-            "adulto_mayor": 0
-        }
+        "recuperados" : 0
     },
     {
         "id" : 5,
@@ -102,17 +62,7 @@
         },
         "confirmados" : 7,
         "fallecidos" : 0,
-        "recuperados" : 1,
-        "sexo" : {
-            "masculino" : "-",
-            "femenino" : "-"
-        },
-        "edad" : {
-            "ninio": 0,
-            "joven": 2,
-            "adulto": 1,
-            "adulto_mayor": 0
-        }
+        "recuperados" : 1
     },
     {
         "id" : 6,
@@ -125,17 +75,46 @@
         },
         "confirmados" : 6,
         "fallecidos" : 0,
-        "recuperados" : 0,
-        "sexo" : {
-            "masculino" : "-",
-            "femenino" : "-"
+        "recuperados" : 0
+    },
+    {
+        "id" : 7,
+        "provincia": "Chimbote",
+        "distrito" : "Chimbote",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.064437,
+            "lng": -78.588515
         },
-        "edad" : {
-            "ninio": 0,
-            "joven": 2,
-            "adulto": 1,
-            "adulto_mayor": 0
-        }
+        "confirmados" : 734,
+        "fallecidos" : 0,
+        "recuperados" : 0
+    },
+    {
+        "id" : 8,
+        "provincia": "Huaraz",
+        "distrito" : "Huaraz",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.529815,
+            "lng": -77.528400
+        },
+        "confirmados" : 241,
+        "fallecidos" : 0,
+        "recuperados" : 0
+    },
+    {
+        "id" : 9,
+        "provincia": "Aija",
+        "distrito" : "Aija",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.781660,
+            "lng": -77.608998
+        },
+        "confirmados" : 2,
+        "fallecidos" : 0,
+        "recuperados" : 0
     }
 
 ]
