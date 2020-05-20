@@ -21,7 +21,7 @@
             "lat": -8.697353,
             "lng": -77.398506
         },
-        "confirmados" : 1,
+        "confirmados" : 3,
         "fallecidos" : 0,
         "recuperados" : 0
     },
@@ -62,7 +62,7 @@
         },
         "confirmados" : 7,
         "fallecidos" : 0,
-        "recuperados" : 1
+        "recuperados" : 2
     },
     {
         "id" : 6,
@@ -86,7 +86,7 @@
             "lat": -9.064437,
             "lng": -78.588515
         },
-        "confirmados" : 734,
+        "confirmados" : 921,
         "fallecidos" : 0,
         "recuperados" : 0
     },
@@ -99,7 +99,7 @@
             "lat": -9.529815,
             "lng": -77.528400
         },
-        "confirmados" : 241,
+        "confirmados" : 246,
         "fallecidos" : 0,
         "recuperados" : 0
     },
