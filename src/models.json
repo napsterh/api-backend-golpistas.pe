@@ -284,6 +284,45 @@
         "confirmados" : 5,
         "fallecidos" : 0,
         "recuperados" : 0
+    },
+    {
+        "id" : 23,
+        "provincia": "Aija",
+        "distrito" : "Aija",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.780155,
+            "lng": -77.608670
+        },
+        "confirmados" : 4,
+        "fallecidos" : 0,
+        "recuperados" : 0
+    },
+    {
+        "id" : 24,
+        "provincia": "Huaraz",
+        "distrito" : "Pariacoto",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.559448,
+            "lng": -77.890511
+        },
+        "confirmados" : 7,
+        "fallecidos" : 0,
+        "recuperados" : 0
+    },
+    {
+        "id" : 25,
+        "provincia": "Carhuaz",
+        "distrito" : "Tinco",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.259968,
+            "lng": -77.662513
+        },
+        "confirmados" : 6,
+        "fallecidos" : 0,
+        "recuperados" : 5
     }
 
 ]
