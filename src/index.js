@@ -26,5 +26,3 @@ app.use('/api/aislados', require('./routes/aislados'));
 app.listen(app.get('port'), () => {
     console.log(`Server on port ${app.get('port')}`);
 });
-
-

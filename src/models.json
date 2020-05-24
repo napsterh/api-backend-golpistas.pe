@@ -8,7 +8,7 @@
             "lat": -8.708190,
             "lng": -77.374127
         },
-        "confirmados" : 1,
+        "confirmados" : 0,
         "fallecidos" : 0,
         "recuperados" : 0
     },
@@ -23,7 +23,7 @@
         },
         "confirmados" : 3,
         "fallecidos" : 0,
-        "recuperados" : 0
+        "recuperados" : 1
     },
     {
         "id" : 3,
@@ -34,7 +34,7 @@
             "lat": -8.857993,
             "lng": -77.435588
         },
-        "confirmados" : 1,
+        "confirmados" : 0,
         "fallecidos" : 0,
         "recuperados" : 0
     },
@@ -49,7 +49,7 @@
         },
         "confirmados" : 5,
         "fallecidos" : 0,
-        "recuperados" : 0
+        "recuperados" : 2
     },
     {
         "id" : 5,
@@ -60,7 +60,7 @@
             "lat": -8.865763,
             "lng": -77.354355
         },
-        "confirmados" : 7,
+        "confirmados" : 8,
         "fallecidos" : 0,
         "recuperados" : 2
     },
@@ -75,44 +75,213 @@
         },
         "confirmados" : 6,
         "fallecidos" : 0,
-        "recuperados" : 0
+        "recuperados" : 1
     },
     {
         "id" : 7,
-        "provincia": "Chimbote",
+        "provincia": "Santa",
         "distrito" : "Chimbote",
         "imagen" : "",
         "location" : {
-            "lat": -9.064437,
-            "lng": -78.588515
+            "lat": -9.075049,
+            "lng": -78.593717
         },
-        "confirmados" : 921,
+        "confirmados" : 1134,
         "fallecidos" : 0,
-        "recuperados" : 0
+        "recuperados" : 191
     },
     {
         "id" : 8,
+        "provincia": "Santa",
+        "distrito" : "Nuevo Chimbote",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.122765,
+            "lng": -78.531497
+        },
+        "confirmados" : 457,
+        "fallecidos" : 0,
+        "recuperados" : 103
+    },
+    {
+        "id" : 9,
         "provincia": "Huaraz",
         "distrito" : "Huaraz",
         "imagen" : "",
         "location" : {
-            "lat": -9.529815,
-            "lng": -77.528400
+            "lat": -9.529758,
+            "lng": -77.528475
         },
-        "confirmados" : 246,
+        "confirmados" : 274,
         "fallecidos" : 0,
-        "recuperados" : 0
+        "recuperados" : 43
     },
     {
-        "id" : 9,
-        "provincia": "Aija",
-        "distrito" : "Aija",
+        "id" : 10,
+        "provincia": "Santa",
+        "distrito" : "Coishco",
         "imagen" : "",
         "location" : {
-            "lat": -9.781660,
-            "lng": -77.608998
+            "lat": -9.022226,
+            "lng": -78.615853
         },
-        "confirmados" : 2,
+        "confirmados" : 196,
+        "fallecidos" : 0,
+        "recuperados" : 65
+    },
+    {
+        "id" : 11,
+        "provincia": "Santa",
+        "distrito" : "Santa",
+        "imagen" : "",
+        "location" : {
+            "lat": -8.988546,
+            "lng": -78.615832
+        },
+        "confirmados" : 155,
+        "fallecidos" : 0,
+        "recuperados" : 55
+    },
+    {
+        "id" : 12,
+        "provincia": "Huaraz",
+        "distrito" : "Independencia",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.5146,
+            "lng": -77.5275
+        },
+        "confirmados" : 93,
+        "fallecidos" : 0,
+        "recuperados" : 36
+    },
+    {
+        "id" : 13,
+        "provincia": "Casma",
+        "distrito" : "Casma",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.476354,
+            "lng": -78.305378
+        },
+        "confirmados" : 57,
+        "fallecidos" : 0,
+        "recuperados" : 16
+    },
+    {
+        "id" : 14,
+        "provincia": "Santa",
+        "distrito" : "Nepeña",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.172150,
+            "lng": -78.359025
+        },
+        "confirmados" : 54,
+        "fallecidos" : 0,
+        "recuperados" : 19
+    },
+    {
+        "id" : 15,
+        "provincia": "Huari",
+        "distrito" : "Huari",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.348699,
+            "lng": -77.172140
+        },
+        "confirmados" : 19,
+        "fallecidos" : 0,
+        "recuperados" : 16
+    },
+    {
+        "id" : 16,
+        "provincia": "Huari",
+        "distrito" : "San Marcos",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.555580,
+            "lng": -77.208586
+        },
+        "confirmados" : 18,
+        "fallecidos" : 0,
+        "recuperados" : 10
+    },
+    {
+        "id" : 17,
+        "provincia": "Huarmey",
+        "distrito" : "Huarmey",
+        "imagen" : "",
+        "location" : {
+            "lat": -10.068720,
+            "lng": -78.152485
+        },
+        "confirmados" : 15,
+        "fallecidos" : 0,
+        "recuperados" : 4
+    },
+    {
+        "id" : 18,
+        "provincia": "Huaylas",
+        "distrito" : "Caraz",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.048774,
+            "lng": -77.810017
+        },
+        "confirmados" : 13,
+        "fallecidos" : 0,
+        "recuperados" : 5
+    },
+    {
+        "id" : 19,
+        "provincia": "Casma",
+        "distrito" : "Yaután",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.511714,
+            "lng": -77.996407
+        },
+        "confirmados" : 11,
+        "fallecidos" : 0,
+        "recuperados" : 2
+    },
+    {
+        "id" : 20,
+        "provincia": "Carhuaz",
+        "distrito" : "Carhuaz",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.281874,
+            "lng": -77.646292
+        },
+        "confirmados" : 10,
+        "fallecidos" : 0,
+        "recuperados" : 7
+    },
+    {
+        "id" : 21,
+        "provincia": "Huari",
+        "distrito" : "Huantar",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.433335,
+            "lng": -77.250000
+        },
+        "confirmados" : 8,
+        "fallecidos" : 0,
+        "recuperados" : 2
+    },
+    {
+        "id" : 22,
+        "provincia": "Yungay",
+        "distrito" : "Yungay",
+        "imagen" : "",
+        "location" : {
+            "lat": -9.139864,
+            "lng": -77.744874
+        },
+        "confirmados" : 5,
         "fallecidos" : 0,
         "recuperados" : 0
     }
