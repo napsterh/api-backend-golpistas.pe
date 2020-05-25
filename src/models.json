@@ -34,9 +34,9 @@
             "lat": -8.857993,
             "lng": -77.435588
         },
-        "confirmados" : 0,
+        "confirmados" : 1,
         "fallecidos" : 0,
-        "recuperados" : 0
+        "recuperados" : 1
     },
     {
         "id" : 4,
@@ -73,7 +73,7 @@
             "lat": -8.552750,
             "lng": -77.632000
         },
-        "confirmados" : 6,
+        "confirmados" : 8,
         "fallecidos" : 0,
         "recuperados" : 1
     },
@@ -86,7 +86,7 @@
             "lat": -9.075049,
             "lng": -78.593717
         },
-        "confirmados" : 1134,
+        "confirmados" : 1159,
         "fallecidos" : 0,
         "recuperados" : 191
     },
@@ -99,7 +99,7 @@
             "lat": -9.122765,
             "lng": -78.531497
         },
-        "confirmados" : 457,
+        "confirmados" : 473,
         "fallecidos" : 0,
         "recuperados" : 103
     },
@@ -112,9 +112,9 @@
             "lat": -9.529758,
             "lng": -77.528475
         },
-        "confirmados" : 274,
+        "confirmados" : 281,
         "fallecidos" : 0,
-        "recuperados" : 43
+        "recuperados" : 44
     },
     {
         "id" : 10,
@@ -151,7 +151,7 @@
             "lat": -9.5146,
             "lng": -77.5275
         },
-        "confirmados" : 93,
+        "confirmados" : 98,
         "fallecidos" : 0,
         "recuperados" : 36
     },
@@ -164,7 +164,7 @@
             "lat": -9.476354,
             "lng": -78.305378
         },
-        "confirmados" : 57,
+        "confirmados" : 63,
         "fallecidos" : 0,
         "recuperados" : 16
     },
@@ -177,7 +177,7 @@
             "lat": -9.172150,
             "lng": -78.359025
         },
-        "confirmados" : 54,
+        "confirmados" : 71,
         "fallecidos" : 0,
         "recuperados" : 19
     },
@@ -192,7 +192,7 @@
         },
         "confirmados" : 19,
         "fallecidos" : 0,
-        "recuperados" : 16
+        "recuperados" : 17
     },
     {
         "id" : 16,
@@ -216,7 +216,7 @@
             "lat": -10.068720,
             "lng": -78.152485
         },
-        "confirmados" : 15,
+        "confirmados" : 16,
         "fallecidos" : 0,
         "recuperados" : 4
     },
@@ -281,7 +281,7 @@
             "lat": -9.139864,
             "lng": -77.744874
         },
-        "confirmados" : 5,
+        "confirmados" : 6,
         "fallecidos" : 0,
         "recuperados" : 0
     },
