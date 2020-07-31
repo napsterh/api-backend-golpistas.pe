@@ -47,9 +47,9 @@
             "lat": -8.820954,
             "lng": -77.460313
         },
-        "confirmados" : 5,
-        "fallecidos" : 0,
-        "recuperados" : 2
+        "confirmados" : 104,
+        "fallecidos" : 1,
+        "recuperados" : 42
     },
     {
         "id" : 5,
@@ -326,4 +326,3 @@
     }
 
 ]
-
