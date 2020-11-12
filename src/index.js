@@ -19,8 +19,7 @@ app.use((req, res, next) => {
 
 // routes
 app.use(require('./routes/index'));
-app.use('/api/casos', require('./routes/casos'));
-app.use('/api/aislados', require('./routes/aislados'));
+app.use('/api/golpistas', require('./routes/golpistas'));
 
 //strating server
 app.listen(app.get('port'), () => {

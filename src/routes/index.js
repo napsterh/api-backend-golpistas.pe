@@ -3,8 +3,8 @@ const router = Router();
 
 router.get('/', (req, res) => {
     const data = {
-        "name": "Homer",
-        "web": "homer.com"
+        "name": "Golpistas.pe",
+        "web": "golpistas.com"
     };
     res.json(data);
 });

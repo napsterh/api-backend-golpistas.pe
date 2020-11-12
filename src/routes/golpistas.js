@@ -1,11 +1,11 @@
 const { Router } = require('express');
 const router = Router();
 
-const aislados = require('../aislados.json');
+const casos = require('../golpistas.json');
 
 router.get('/', (req, res) =>{
     res.setHeader('Access-Control-Allow-Origin', '*');
-    res.json(aislados);
+    res.json(casos);
 });
 
 module.exports = router;
