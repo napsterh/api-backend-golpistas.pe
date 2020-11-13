@@ -68,7 +68,7 @@
         "votoVacancia": 1,
         "admisionVacancia": 1
       },
-      "investigaciones": 0,
+      "investigaciones": 43,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/EDGAR_ARNOLD_ALARCON_TEJADA_fdass3.jpg",
       "partidoPolitico": {
         "nombre": "UNION POR EL PERU",
@@ -204,7 +204,7 @@
       "investigaciones": 4,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/JESUS_ORLANDO_ARAPA_ROQUE_gn2wvh.jpg",
       "partidoPolitico": {
-        "nombre": "ACCION POPULAR",
+        "nombre": "ACCIÓN POPULAR",
         "departamento": "PUNO"
       }
     },
@@ -280,7 +280,7 @@
       "investigaciones": 0,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/WILMER_SOLIS_BAJONERO_OLIVAS_ol3ipa.jpg",
       "partidoPolitico": {
-        "nombre": "ACCION POPULAR",
+        "nombre": "ACCIÓN POPULAR",
         "departamento": "HUANUCO"
       }
     },
@@ -394,7 +394,7 @@
       "investigaciones": 14,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166623/golpista.pe/RICARDO_MIGUEL_BURGA_CHUQUIPIONDO_uxdcoj.jpg",
       "partidoPolitico": {
-        "nombre": "ACCION POPULAR",
+        "nombre": "ACCIÓN POPULAR",
         "departamento": "LIMA"
       }
     },
@@ -432,7 +432,7 @@
       "investigaciones": 1,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166628/golpista.pe/ROLANDO_CAMPOS_VILLALOBOS_ytfktr.jpg",
       "partidoPolitico": {
-        "nombre": "ACCION POPULAR",
+        "nombre": "ACCIÓN POPULAR",
         "departamento": "LAMBAYEQUE"
       }
     },
@@ -467,7 +467,7 @@
         "votoVacancia": 1,
         "admisionVacancia": 1
       },
-      "investigaciones": 0,
+      "investigaciones": 1,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/IRENE_CARCAUSTO_HUANCA_blfihn.jpg",
       "partidoPolitico": {
         "nombre": "PODEMOS PERU",
@@ -524,7 +524,7 @@
         "votoVacancia": 1,
         "admisionVacancia": 2
       },
-      "investigaciones": 0,
+      "investigaciones": 2,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166617/golpista.pe/MARIA_TERESA_CESPEDES_CARDENAS_DE_VELASQUEZ_ahfnjp.jpg",
       "partidoPolitico": {
         "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
@@ -600,7 +600,7 @@
         "tipo": "Congresista",
         "activo": true
       },
-      "investigaciones": 0,
+      "investigaciones": 1,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166620/golpista.pe/MARTHA_GLADYS_CHAVEZ_COSSIO_yqbujl.jpg",
       "partidoPolitico": {
         "nombre": "FUERZA POPULAR",
@@ -793,7 +793,7 @@
       "investigaciones": 0,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166610/golpista.pe/KENYON_EDUARDO_DURAND_BUSTAMANTE_twj2r5.jpg",
       "partidoPolitico": {
-        "nombre": "ACCION POPULAR",
+        "nombre": "ACCIÓN POPULAR",
         "departamento": "HUANCAVELICA"
       }
     },
@@ -850,7 +850,7 @@
       "investigaciones": 1,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/YESSY_NELIDA_FABIAN_DIAZ_vtcr3f.jpg",
       "partidoPolitico": {
-        "nombre": "ACCION POPULAR",
+        "nombre": "ACCIÓN POPULAR",
         "departamento": "HUANUCO"
       }
     },
@@ -961,10 +961,10 @@
         "tipo": "Congresista",
         "activo": true
       },
-      "investigaciones": 0,
+      "investigaciones": 4,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/PAUL_GABRIEL_GARCIA_OVIEDO_rjurcb.jpg",
       "partidoPolitico": {
-        "nombre": "ACCION POPULAR",
+        "nombre": "ACCIÓN POPULAR",
         "departamento": "CALLAO"
       }
     },
@@ -1040,7 +1040,7 @@
       "investigaciones": 19,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/OTTO_NAPOLEON_GUIBOVICH_ARTEAGA_txlo6y.jpg",
       "partidoPolitico": {
-        "nombre": "ACCION POPULAR",
+        "nombre": "ACCIÓN POPULAR",
         "departamento": "ANCASH"
       }
     },
@@ -1132,7 +1132,7 @@
         "tipo": "Congresista",
         "activo": true
       },
-      "investigaciones": 2,
+      "investigaciones": 0,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/NELLY_HUAMANI_MACHACA_DE_ESPINOZA_nbtwtd.jpg",
       "partidoPolitico": {
         "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
@@ -1154,7 +1154,7 @@
       "investigaciones": 0,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166612/golpista.pe/LEONARDO_INGA_SALES_qomhx1.jpg",
       "partidoPolitico": {
-        "nombre": "ACCION POPULAR",
+        "nombre": "ACCIÓN POPULAR",
         "departamento": "LORETO"
       }
     },
@@ -1173,7 +1173,7 @@
       "investigaciones": 2,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LESLYE_CAROL_LAZO_VILLON_ky8vny.jpg",
       "partidoPolitico": {
-        "nombre": "ACCION POPULAR",
+        "nombre": "ACCIÓN POPULAR",
         "departamento": "LIMA"
       }
     },
@@ -1230,7 +1230,7 @@
       "investigaciones": 0,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/FREDDY_LLAULLI_ROMERO_rppcan.jpg",
       "partidoPolitico": {
-        "nombre": "ACCION POPULAR",
+        "nombre": "ACCIÓN POPULAR",
         "departamento": "JUNIN"
       }
     },
@@ -1341,7 +1341,7 @@
         "tipo": "Congresista",
         "activo": true
       },
-      "investigaciones": 0,
+      "investigaciones": 143,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/FERNANDO_MELENDEZ_CELIS_vbsciz.jpg",
       "partidoPolitico": {
         "nombre": "ALIANZA PARA EL PROGRESO",
@@ -1382,7 +1382,7 @@
       "investigaciones": 1,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166614/golpista.pe/MANUEL_ARTURO_MERINO_DE_LAMA_xkldxa.jpg",
       "partidoPolitico": {
-        "nombre": "ACCION POPULAR",
+        "nombre": "ACCIÓN POPULAR",
         "departamento": "TUMBES"
       }
     },
@@ -1417,7 +1417,7 @@
         "tipo": "Congresista",
         "activo": true
       },
-      "investigaciones": 0,
+      "investigaciones": 4,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/CARLOS_FERNANDO_MESIA_RAMIREZ_fcmbr2.jpg",
       "partidoPolitico": {
         "nombre": "FUERZA POPULAR",
@@ -1458,7 +1458,7 @@
       "investigaciones": 1,
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/ANTHONY_RENSON_NOVOA_CRUZADO_lz0zih.jpg",
       "partidoPolitico": {
-        "nombre": "ACCION POPULAR",
+        "nombre": "ACCIÓN POPULAR",
         "departamento": "LA LIBERTAD"
       }
     },
@@ -1576,7 +1576,7 @@
           "investigaciones":0,
           "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166598/golpista.pe/JUAN_CARLOS_OYOLA_RODRIGUEZ_eqqflv.jpg",
           "partidoPolitico": {
-              "nombre": "ACCION POPULAR",
+              "nombre": "ACCIÓN POPULAR",
               "departamento": "ICA"
           }
       },
@@ -1633,10 +1633,10 @@
               "activo": true
           },
           "denuncias": [],
-          "investigaciones": 11,
+          "investigaciones": 0,
           "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166628/golpista.pe/ROSARIO_PAREDES_EYZAGUIRRE_fk6zds.jpg",
           "partidoPolitico": {
-              "nombre": "ACCION POPULAR",
+              "nombre": "ACCIÓN POPULAR",
               "departamento": "AREQUIPA"
           }
       },
@@ -1656,7 +1656,7 @@
           "investigaciones": 11,
           "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/CARLOS_ANDRES_PEREZ_OCHOA_b1008w.jpg",
           "partidoPolitico": {
-              "nombre": "ACCION POPULAR",
+              "nombre": "ACCIÓN POPULAR",
               "departamento": "LIMA PROVINCIAS"
           }
       },
@@ -1793,7 +1793,7 @@
               "activo": true
           },
           "denuncias": [],
-          "investigaciones": 0,
+          "investigaciones": 31,
           "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/NAPOLEON_PU%C3%91O_LECARNAQUE_n7onfn.jpg",
           "partidoPolitico": {
               "nombre": "ALIANZA PARA EL PROGRESO",
@@ -1936,7 +1936,7 @@
           "investigaciones": 3,
           "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/WALTER_JESUS_RIVERA_GUERRA_avmfnp.jpg",
           "partidoPolitico": {
-              "nombre": "ACCION POPULAR",
+              "nombre": "ACCIÓN POPULAR",
               "departamento": "LIMA"
           }
       },
@@ -1976,7 +1976,7 @@
           "investigaciones": 0,
           "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LUIS_ANDRES_ROEL_ALVA_riib3a.jpg",
           "partidoPolitico": {
-              "nombre": "ACCION POPULAR",
+              "nombre": "ACCIÓN POPULAR",
               "departamento": "LIMA"
           }
       },
@@ -2013,10 +2013,10 @@
               "activo": true
           },
           "denuncias": [],
-          "investigaciones": 0,
+          "investigaciones": 3,
           "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166628/golpista.pe/ROLANDO_RUBEN_RUIZ_PINEDO_bmc5ju.jpg",
           "partidoPolitico": {
-              "nombre": "ACCION POPULAR",
+              "nombre": "ACCIÓN POPULAR",
               "departamento": "SAN MARTIN"
           }
       },
@@ -2036,7 +2036,7 @@
           "investigaciones": 0,
           "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/MONICA_ELIZABETH_SAAVEDRA_OCHARAN_x1phnv.jpg",
           "partidoPolitico": {
-              "nombre": "ACCION POPULAR",
+              "nombre": "ACCIÓN POPULAR",
               "departamento": "LIMA"
           }
       },
@@ -2076,7 +2076,7 @@
           "investigaciones": 1,
           "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/FRANCO_SALINAS_LOPEZ_azwukp.jpg",
           "partidoPolitico": {
-              "nombre": "ACCION POPULAR",
+              "nombre": "ACCIÓN POPULAR",
               "departamento": "PIURA"
           }
       },
@@ -2176,7 +2176,7 @@
           "investigaciones": 10,
           "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LUIS_CARLOS_SIMEON_HURTADO_bpryk0.jpg",
           "partidoPolitico": {
-              "nombre": "ACCION POPULAR",
+              "nombre": "ACCIÓN POPULAR",
               "departamento": "PASCO"
           }
       },
@@ -2256,7 +2256,7 @@
           "investigaciones": 2,
           "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/HANS_TROYES_DELGADO_jl9oyf.jpg",
           "partidoPolitico": {
-              "nombre": "ACCION POPULAR",
+              "nombre": "ACCIÓN POPULAR",
               "departamento": "CAJAMARCA"
           }
       },
@@ -2376,7 +2376,7 @@
           "investigaciones": 3,
           "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/JORGE_VASQUEZ_BECERRA_wq5tzu.jpg",
           "partidoPolitico": {
-              "nombre": "ACCION POPULAR",
+              "nombre": "ACCIÓN POPULAR",
               "departamento": "CUSCO"
           }
       },
