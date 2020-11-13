@@ -1,21 +1,40 @@
 [
     {
-      "nombres": "EDUARDO GEOVANNI",
-      "apellidos": "ACATE CORONEL",
-      "mail": "eacate@congreso.gob.pe",
+      "nombres": "FERNANDO",
+      "apellidos": "MELÉNDEZ CELIS",
+      "mail": "fmelendez@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": "no voto"
+      },
       "cargoPublico": {
         "tipo": "Congresista",
         "activo": true
       },
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 0
-      },
-      "investigaciones": 3,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/EDUARDO_GEOVANNI_ACATE_CORONEL_x8gigx.jpg",
+      "investigaciones": 143,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/FERNANDO_MELENDEZ_CELIS_vbsciz.jpg",
       "partidoPolitico": {
         "nombre": "ALIANZA PARA EL PROGRESO",
         "departamento": "LORETO"
+      }
+    },
+    {
+      "nombres": "RENNÁN SAMUEL",
+      "apellidos": "ESPINOZA ROSALES",
+      "mail": "respinoza@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 0,
+        "admisionVacancia": 0
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 112,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/RENNAN_SAMUEL_ESPINOZA_ROSALES_cgjdu2.jpg",
+      "partidoPolitico": {
+        "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "departamento": "LIMA"
       }
     },
     {
@@ -38,27 +57,47 @@
       }
     },
     {
-      "nombres": "MANUEL",
-      "apellidos": "AGUILAR ZAMORA",
-      "mail": "maguilarz@congreso.gob.pe",
+      "nombres": "POSEMOSCROWTE IRRHOSCOPT",
+      "apellidos": "CHAGUA PAYANO",
+      "mail": "pchagua@congreso.gob.pe",
       "cargoPublico": {
         "tipo": "Congresista",
         "activo": true
       },
       "votos": {
-        "votoVacancia": 0,
+        "votoVacancia": 1,
         "admisionVacancia": 1
       },
-      "investigaciones": 4,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/MANUEL_AGUILAR_ZAMORA_ys61jc.jpg",
+      "investigaciones": 71,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/POSEMOSCROWTE_IRRHOSCOPT_CHAGUA_PAYANO_totjyt.jpg",
       "partidoPolitico": {
-        "nombre": "ACCIÓN POPULAR",
-        "departamento": "SAN MARTÍN"
+        "nombre": "UNION POR EL PERU",
+        "departamento": "HUANCAVELICA"
+      }
+    },
+    {
+      "nombres": "LUIS ALBERTO",
+      "apellidos": "VALDEZ FARÍAS",
+      "mail": "lvaldez@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "no voto"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 71,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LUIS_ALBERTO_VALDEZ_FARIAS_sbsqfd.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "LA LIBERTAD"
       }
     },
     {
       "nombres": "EDGAR ARNOLD",
-      "apellidos": "ALARCON TEJADA",
+      "apellidos": "ALARCÓN TEJADA",
       "mail": "ealarcont@congreso.gob.pe",
       "cargoPublico": {
         "tipo": "Congresista",
@@ -76,9 +115,146 @@
       }
     },
     {
-      "nombres": "HIRMA NORMA",
-      "apellidos": "ALENCASTRE MIRANDA",
-      "mail": "halencastre@congreso.gob.pe",
+      "nombres": "JHOSEPT AMADO",
+      "apellidos": "PÉREZ MIMBELA",
+      "mail": "jperezm@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 40,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/JHOSEPT_AMADO_PEREZ_MIMBELA_n7yobr.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "ANCASH"
+      }
+    },
+    {
+      "nombres": "RITA ELENA",
+      "apellidos": "AYASTA DE DÍAZ",
+      "mail": "rayasta@congreso.gob.pe",
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "investigaciones": 37,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166623/golpista.pe/RITA_ELENA_AYASTA_DE_DIAZ_vhkfpj.jpg",
+      "partidoPolitico": {
+        "nombre": "FUERZA POPULAR",
+        "departamento": "LAMBAYEQUE"
+      }
+    },
+    {
+      "nombres": "DANIEL BELIZARIO",
+      "apellidos": "URRESTI ELERA",
+      "mail": "durresti@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "0",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 33,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/DANIEL_BELIZARIO_URRESTI_ELERA_gffzon.jpg",
+      "partidoPolitico": {
+        "nombre": "PODEMOS PERU",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "LUIS REYMUNDO",
+      "apellidos": "DIOSES GUZMÁN",
+      "mail": "ldioses@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 0
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 32,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LUIS_REYMUNDO_DIOSES_GUZMAN_xkf4qf.jpg",
+      "partidoPolitico": {
+        "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "departamento": "PIURA"
+      }
+    },
+    {
+      "nombres": "NAPOLEÓN",
+      "apellidos": "PUÑO LECARNAQUE",
+      "mail": "npuno@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 31,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/NAPOLEON_PU%C3%91O_LECARNAQUE_n7onfn.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "TUMBES"
+      }
+    },
+    {
+      "nombres": "GRIMALDO",
+      "apellidos": "VÁSQUEZ TAN",
+      "mail": "gvasquez@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 23,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/GRIMALDO_VASQUEZ_TAN_lfolqw.jpg",
+      "partidoPolitico": {
+        "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "departamento": "AMAZONAS"
+      }
+    },
+    {
+      "nombres": "OTTO NAPOLEÓN",
+      "apellidos": "GUIBOVICH ARTEAGA",
+      "mail": "oguibovich@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 19,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/OTTO_NAPOLEON_GUIBOVICH_ARTEAGA_txlo6y.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "ANCASH"
+      }
+    },
+    {
+      "nombres": "WALTER",
+      "apellidos": "BENAVIDES GAVIDIA",
+      "mail": "wbenavides@congreso.gob.pe",
       "cargoPublico": {
         "tipo": "Congresista",
         "activo": true
@@ -87,11 +263,49 @@
         "votoVacancia": 1,
         "admisionVacancia": 0
       },
-      "investigaciones": 2,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/HIRMA_NORMA_ALENCASTRE_MIRANDA_qcnphs.jpg",
+      "investigaciones": 18,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166587/golpista.pe/WALTER_BENAVIDES_GAVIDIA_vxoqmg.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "CAJAMARCA"
+      }
+    },
+    {
+      "nombres": "CÉSAR",
+      "apellidos": "GONZALES TUANAMA",
+      "mail": "cgonzales@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 18,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/CESAR_GONZALES_TUANAMA_ocm2re.jpg",
       "partidoPolitico": {
         "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
-        "departamento": "ANCASH"
+        "departamento": "UCAYALI"
+      }
+    },
+    {
+      "nombres": "YEREMI ARON",
+      "apellidos": "ESPINOZA VELARDE",
+      "mail": "yespinoza@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 15,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/YEREMI_ARON_ESPINOZA_VELARDE_tag4sw.jpg",
+      "partidoPolitico": {
+        "nombre": "PODEMOS PERU",
+        "departamento": "LIMA"
       }
     },
     {
@@ -114,6 +328,451 @@
       }
     },
     {
+      "nombres": "BETTO",
+      "apellidos": "BARRIONUEVO ROMERO",
+      "mail": "bbarrionuevo@congreso.gob.pe",
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "investigaciones": 14,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/BETTO_BARRIONUEVO_ROMERO_qvs5ex.jpg",
+      "partidoPolitico": {
+        "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "departamento": "ANCASH"
+      }
+    },
+    {
+      "nombres": "RICARDO MIGUEL",
+      "apellidos": "BURGA CHUQUIPIONDO",
+      "mail": "rburga@congreso.gob.pe",
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "investigaciones": 14,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166623/golpista.pe/RICARDO_MIGUEL_BURGA_CHUQUIPIONDO_uxdcoj.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "MOISES",
+      "apellidos": "GONZALEZ CRUZ",
+      "mail": "mgonzalezc@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 2
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 14,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166621/golpista.pe/MOISES_GONZALEZ_CRUZ_gd6vj1.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "CAJAMARCA"
+      }
+    },
+    {
+      "nombres": "ERWIN",
+      "apellidos": "TITO ORTEGA",
+      "mail": "etito@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 14,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/ERWIN_TITO_ORTEGA_beb5ml.jpg",
+      "partidoPolitico": {
+        "nombre": "FUERZA POPULAR",
+        "departamento": "JUNIN"
+      }
+    },
+    {
+      "nombres": "ANGÉLICA MARÍA",
+      "apellidos": "PALOMINO SAAVEDRA",
+      "mail": "apalomino@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "0",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 13,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/ANGELICA_MARIA_PALOMINO_SAAVEDRA_eouqcq.jpg",
+      "partidoPolitico": {
+        "nombre": "PARTIDO MORADO",
+        "departamento": "PIURA"
+      }
+    },
+    {
+      "nombres": "RUBEN",
+      "apellidos": "PANTOJA CALVO",
+      "mail": "rpantoja@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 12,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166628/golpista.pe/RUBEN_PANTOJA_CALVO_s4lon7.jpg",
+      "partidoPolitico": {
+        "nombre": "UNION POR EL PERU",
+        "departamento": "CUSCO"
+      }
+    },
+    {
+      "nombres": "DIETHELL",
+      "apellidos": "COLUMBUS MURATA",
+      "mail": "dcolumbus@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 11,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/DIETHELL_COLUMBUS_MURATA_wnuzu1.jpg",
+      "partidoPolitico": {
+        "nombre": "FUERZA POPULAR",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "MÁRTIRES",
+      "apellidos": "LIZANA SANTOS",
+      "mail": "mlizana@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 11,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166621/golpista.pe/MARTIRES_LIZANA_SANTOS_xaszik.jpg",
+      "partidoPolitico": {
+        "nombre": "FUERZA POPULAR",
+        "departamento": "PIURA"
+      }
+    },
+    {
+      "nombres": "CARLOS ANDRÉS",
+      "apellidos": "PÉREZ OCHOA",
+      "mail": "cperezo@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "no voto"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 11,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/CARLOS_ANDRES_PEREZ_OCHOA_b1008w.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "LIMA PROVINCIAS"
+      }
+    },
+    {
+      "nombres": "LUIS CARLOS",
+      "apellidos": "SIMEÓN HURTADO",
+      "mail": "lsimeon@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 10,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LUIS_CARLOS_SIMEON_HURTADO_bpryk0.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "PASCO"
+      }
+    },
+    {
+      "nombres": "HIPÓLITO",
+      "apellidos": "CHAIÑA CONTRERAS",
+      "mail": "hchaina@congreso.gob.pe",
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "investigaciones": 9,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/HIPOLITO_CHAI%C3%91A_CONTRERAS_ulf2tv.jpg",
+      "partidoPolitico": {
+        "nombre": "UNION POR EL PERU",
+        "departamento": "AREQUIPA"
+      }
+    },
+    {
+      "nombres": "ALEXANDER",
+      "apellidos": "HIDALGO ZAMALLOA",
+      "mail": "ahidalgo@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 0
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 8,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166587/golpista.pe/ALEXANDER_HIDALGO_ZAMALLOA_bromcv.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "CUSCO"
+      }
+    },
+    {
+      "nombres": "HÉCTOR SIMON",
+      "apellidos": "MAQUERA CHAVEZ",
+      "mail": "hmaquera@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 8,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/HECTOR_SIMON_MAQUERA_CHAVEZ_xvvktv.jpg",
+      "partidoPolitico": {
+        "nombre": "UNION POR EL PERU",
+        "departamento": "TACNA"
+      }
+    },
+    {
+      "nombres": "MARIO JAVIER",
+      "apellidos": "QUISPE SUÁREZ",
+      "mail": "mquispes@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 8,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166618/golpista.pe/MARIO_JAVIER_QUISPE_SUAREZ_z0hr2h.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "PIURA"
+      }
+    },
+    {
+      "nombres": "TANIA ROSALIA",
+      "apellidos": "RODAS MALCA",
+      "mail": "trodas@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 7,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166587/golpista.pe/TANIA_ROSALIA_RODAS_MALCA_rjwomj.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "LA LIBERTAD"
+      }
+    },
+    {
+      "nombres": "JOSÉ ALEJANDRO",
+      "apellidos": "VEGA ANTONIO",
+      "mail": "jvegaa@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 7,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166592/golpista.pe/JOSE_ALEJANDRO_VEGA_ANTONIO_ffyc9a.jpg",
+      "partidoPolitico": {
+        "nombre": "UNION POR EL PERU",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "OMAR KARIM",
+      "apellidos": "CHEHADE MOYA",
+      "mail": "ochehade@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 0
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 6,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/OMAR_KARIM_CHEHADE_MOYA_qvkvka.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "GINO FRANCISCO",
+      "apellidos": "COSTA SANTOLALLA",
+      "mail": "gcosta@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 0,
+        "admisionVacancia": 0
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 6,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605222441/golpista.pe/GINO_COSTA_ljrdew.png",
+      "partidoPolitico": {
+        "nombre": "PARTIDO MORADO",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "JOSÉ ANTONIO",
+      "apellidos": "NÚÑEZ SALAS",
+      "mail": "jnunezs@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 0,
+        "admisionVacancia": 0
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 6,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166592/golpista.pe/JOSE_ANTONIO_NU%C3%91EZ_SALAS_jyemkl.jpg",
+      "partidoPolitico": {
+        "nombre": "PARTIDO MORADO",
+        "departamento": "AREQUIPA"
+      }
+    },
+    {
+      "nombres": "ROBERTO CARLOS",
+      "apellidos": "CHAVARRIA VILCATOMA",
+      "mail": "rchavarria@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 5,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166627/golpista.pe/ROBERTO_CARLOS_CHAVARRIA_VILCATOMA_cpepwt.jpg",
+      "partidoPolitico": {
+        "nombre": "UNION POR EL PERU",
+        "departamento": "JUNIN"
+      }
+    },
+    {
+      "nombres": "CINDY ARLETTE",
+      "apellidos": "CONTRERAS BAUTISTA",
+      "mail": "ccontrerasb@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 2,
+        "admisionVacancia": 2
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 5,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/CINDY_ARLETTE_CONTRERAS_BAUTISTA_yvmbay.jpg",
+      "partidoPolitico": {
+        "nombre": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "OMAR",
+      "apellidos": "MERINO LOPEZ",
+      "mail": "omerino@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 0
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 5,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/OMAR_MERINO_LOPEZ_mr2qjp.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "APURIMAC"
+      }
+    },
+    {
+      "nombres": "MANUEL",
+      "apellidos": "AGUILAR ZAMORA",
+      "mail": "maguilarz@congreso.gob.pe",
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "votos": {
+        "votoVacancia": 0,
+        "admisionVacancia": 1
+      },
+      "investigaciones": 4,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/MANUEL_AGUILAR_ZAMORA_ys61jc.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "SAN MARTÍN"
+      }
+    },
+    {
       "nombres": "CARLOS ALBERTO",
       "apellidos": "ALMERI VERAMENDI",
       "mail": "calmeri@congreso.gob.pe",
@@ -130,6 +789,740 @@
       "partidoPolitico": {
         "nombre": "PODEMOS PERU",
         "departamento": "LIMA PROVINCIAS"
+      }
+    },
+    {
+      "nombres": "JESÚS ORLANDO",
+      "apellidos": "ARAPA ROQUE",
+      "mail": "jarapa@congreso.gob.pe",
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "investigaciones": 4,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/JESUS_ORLANDO_ARAPA_ROQUE_gn2wvh.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "PUNO"
+      }
+    },
+    {
+      "nombres": "CÉSAR AUGUSTO",
+      "apellidos": "COMBINA SALVATIERRA",
+      "mail": "ccombina@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 0
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 4,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/CESAR_AUGUSTO_COMBINA_SALVATIERRA_yya1nn.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "JUNIN"
+      }
+    },
+    {
+      "nombres": "PAUL GABRIEL",
+      "apellidos": "GARCÍA OVIEDO",
+      "mail": "pgarcia@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 4,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/PAUL_GABRIEL_GARCIA_OVIEDO_rjurcb.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "CALLAO"
+      }
+    },
+    {
+      "nombres": "CARLOS FERNANDO",
+      "apellidos": "MESÍA RAMIREZ",
+      "mail": "cmesia@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 4,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/CARLOS_FERNANDO_MESIA_RAMIREZ_fcmbr2.jpg",
+      "partidoPolitico": {
+        "nombre": "FUERZA POPULAR",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "MIGUEL ANGEL",
+      "apellidos": "VIVANCO REYES",
+      "mail": "mvivanco@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 4,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166621/golpista.pe/MIGUEL_ANGEL_VIVANCO_REYES_rgvoj3.jpg",
+      "partidoPolitico": {
+        "nombre": "FUERZA POPULAR",
+        "departamento": "LA LIBERTAD"
+      }
+    },
+    {
+      "nombres": "EDUARDO GEOVANNI",
+      "apellidos": "ACATE CORONEL",
+      "mail": "eacate@congreso.gob.pe",
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 0
+      },
+      "investigaciones": 3,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/EDUARDO_GEOVANNI_ACATE_CORONEL_x8gigx.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "LORETO"
+      }
+    },
+    {
+      "nombres": "ROBINSON DOCITEO",
+      "apellidos": "GUPIOC RIOS",
+      "mail": "rgupioc@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 3,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166627/golpista.pe/ROBINSON_DOCITEO_GUPIOC_RIOS_xtsqx4.jpg",
+      "partidoPolitico": {
+        "nombre": "PODEMOS PERU",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "CAROLINA",
+      "apellidos": "LIZÁRRAGA HOUGHTON",
+      "mail": "clizarraga@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 0,
+        "admisionVacancia": "no voto"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 3,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/CAROLINA_LIZARRAGA_HOUGHTON_pskic2.jpg",
+      "partidoPolitico": {
+        "nombre": "PARTIDO MORADO",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "MARCOS ANTONIO",
+      "apellidos": "PICHILINGUE GOMEZ",
+      "mail": "mpichilingue@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 3,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166616/golpista.pe/MARCOS_ANTONIO_PICHILINGUE_GOMEZ_j8cl5j.jpg",
+      "partidoPolitico": {
+        "nombre": "FUERZA POPULAR",
+        "departamento": "CALLAO"
+      }
+    },
+    {
+      "nombres": "LILIANA ANGÉLICA",
+      "apellidos": "PINEDO ACHACA",
+      "mail": "lpinedoa@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 3,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LILIANA_ANGELICA_PINEDO_ACHACA_edrnsq.jpg",
+      "partidoPolitico": {
+        "nombre": "FUERZA POPULAR",
+        "departamento": "LIMA PROVINCIAS"
+      }
+    },
+    {
+      "nombres": "RUBÉN",
+      "apellidos": "RAMOS ZAPANA",
+      "mail": "rramos@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 3,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166587/golpista.pe/RUBEN_RAMOS_ZAPANA_di5lu8.jpg",
+      "partidoPolitico": {
+        "nombre": "UNION POR EL PERU",
+        "departamento": "PUNO"
+      }
+    },
+    {
+      "nombres": "WALTER JESÚS",
+      "apellidos": "RIVERA GUERRA",
+      "mail": "wriverag@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 3,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/WALTER_JESUS_RIVERA_GUERRA_avmfnp.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "ROLANDO RUBÉN",
+      "apellidos": "RUÍZ PINEDO",
+      "mail": "rruiz@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 3,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166628/golpista.pe/ROLANDO_RUBEN_RUIZ_PINEDO_bmc5ju.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "SAN MARTIN"
+      }
+    },
+    {
+      "nombres": "JORGE",
+      "apellidos": "VÁSQUEZ BECERRA",
+      "mail": "jvasquezb@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "0",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 3,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/JORGE_VASQUEZ_BECERRA_wq5tzu.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "CUSCO"
+      }
+    },
+    {
+      "nombres": "HIRMA NORMA",
+      "apellidos": "ALENCASTRE MIRANDA",
+      "mail": "halencastre@congreso.gob.pe",
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 0
+      },
+      "investigaciones": 2,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/HIRMA_NORMA_ALENCASTRE_MIRANDA_qcnphs.jpg",
+      "partidoPolitico": {
+        "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "departamento": "ANCASH"
+      }
+    },
+    {
+      "nombres": "JOSÉ LUIS",
+      "apellidos": "ANCALLE GUTIERREZ",
+      "mail": "jancalle@congreso.gob.pe",
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "investigaciones": 2,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166592/golpista.pe/JOSE_LUIS_ANCALLE_GUTIERREZ_xih7so.jpg",
+      "partidoPolitico": {
+        "nombre": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+        "departamento": "AREQUIPA"
+      }
+    },
+    {
+      "nombres": "LENIN FERNANDO",
+      "apellidos": "BAZÁN VILLANUEVA",
+      "mail": "lbazan@congreso.gob.pe",
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "investigaciones": 2,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166611/golpista.pe/LENIN_FERNANDO_BAZAN_VILLANUEVA_grsa2s.jpg",
+      "partidoPolitico": {
+        "nombre": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+        "departamento": "LA LIBERTAD"
+      }
+    },
+    {
+      "nombres": "MARÍA TERESA",
+      "apellidos": "CABRERA VEGA",
+      "mail": "mcabrera@congreso.gob.pe",
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "votos": {
+        "votoVacancia": 0,
+        "admisionVacancia": 1
+      },
+      "investigaciones": 2,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166617/golpista.pe/MARIA_TERESA_CABRERA_VEGA_lllcga.jpg",
+      "partidoPolitico": {
+        "nombre": "PODEMOS PERU",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "MARÍA TERESA",
+      "apellidos": "CÉSPEDES CÁRDENAS DE VELASQUEZ",
+      "mail": "mcespedes@congreso.gob.pe",
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 2
+      },
+      "investigaciones": 2,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166617/golpista.pe/MARIA_TERESA_CESPEDES_CARDENAS_DE_VELASQUEZ_ahfnjp.jpg",
+      "partidoPolitico": {
+        "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "JOHAN",
+      "apellidos": "FLORES VILLEGAS",
+      "mail": "jfloresv@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 2,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/JOHAN_FLORES_VILLEGAS_ywm8aj.jpg",
+      "partidoPolitico": {
+        "nombre": "PODEMOS PERU",
+        "departamento": "MOQUEGUA"
+      }
+    },
+    {
+      "nombres": "JUAN DE DIOS",
+      "apellidos": "HUAMÁN CHAMPI",
+      "mail": "jhuamanch@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 2
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 2,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166609/golpista.pe/JUAN_DE_DIOS_HUAMAN_CHAMPI_uognmh.jpg",
+      "partidoPolitico": {
+        "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+        "departamento": "CUSCO"
+      }
+    },
+    {
+      "nombres": "LESLYE CAROL",
+      "apellidos": "LAZO VILLÓN",
+      "mail": "llazo@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 2,
+        "admisionVacancia": 1
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 2,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LESLYE_CAROL_LAZO_VILLON_ky8vny.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "RAÚL",
+      "apellidos": "MACHACA MAMANI",
+      "mail": "jmamani@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 2
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 2,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/RAUL_MACHACA_MAMANI_owmp4l.jpg",
+      "partidoPolitico": {
+        "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+        "departamento": "TACNA"
+      }
+    },
+    {
+      "nombres": "ROBERTINA",
+      "apellidos": "SANTILLANA PAREDES",
+      "mail": "rsantillana@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 2,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166624/golpista.pe/ROBERTINA_SANTILLANA_PAREDES_kn1jio.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "SAN MARTIN"
+      }
+    },
+    {
+      "nombres": "HANS",
+      "apellidos": "TROYES DELGADO",
+      "mail": "htroyes@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "2",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 2,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/HANS_TROYES_DELGADO_jl9oyf.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "CAJAMARCA"
+      }
+    },
+    {
+      "nombres": "MARÍA ISABEL",
+      "apellidos": "BARTOLO ROMERO",
+      "mail": "mbartolo@congreso.gob.pe",
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "investigaciones": 1,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166617/golpista.pe/MARIA_ISABEL_BARTOLO_ROMERO_ua887j.jpg",
+      "partidoPolitico": {
+        "nombre": "UNION POR EL PERU",
+        "departamento": "ANCASH"
+      }
+    },
+    {
+      "nombres": "ROLANDO",
+      "apellidos": "CAMPOS VILLALOBOS",
+      "mail": "r_campos@congreso.gob.pe",
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "votos": {
+        "votoVacancia": 0,
+        "admisionVacancia": 0
+      },
+      "investigaciones": 1,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166628/golpista.pe/ROLANDO_CAMPOS_VILLALOBOS_ytfktr.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "LAMBAYEQUE"
+      }
+    },
+    {
+      "nombres": "LUIS FELIPE",
+      "apellidos": "CASTILLO OLIVA",
+      "mail": "lcastilloo@congreso.gob.pe",
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "investigaciones": 1,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LUIS_FELIPE_CASTILLO_OLIVA_hsglfe.jpg",
+      "partidoPolitico": {
+        "nombre": "PODEMOS PERU",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "WILMER",
+      "apellidos": "CAYLLAHUA BARRIENTOS",
+      "mail": "wcayllahua@congreso.gob.pe",
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 2
+      },
+      "investigaciones": 1,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/WILMER_CAYLLAHUA_BARRIENTOS_muqehe.jpg",
+      "partidoPolitico": {
+        "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "MARTHA GLADYS",
+      "apellidos": "CHÁVEZ COSSÍO",
+      "mail": "mchavez@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 1,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166620/golpista.pe/MARTHA_GLADYS_CHAVEZ_COSSIO_yqbujl.jpg",
+      "partidoPolitico": {
+        "nombre": "FUERZA POPULAR",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "YESSY NÉLIDA",
+      "apellidos": "FABIÁN DÍAZ",
+      "mail": "yfabian@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": "no voto"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 1,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/YESSY_NELIDA_FABIAN_DIAZ_vtcr3f.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "HUANUCO"
+      }
+    },
+    {
+      "nombres": "CARLOS ENRIQUE",
+      "apellidos": "FERNANDEZ CHACON",
+      "mail": "cfernandezch@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 1,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/CARLOS_ENRIQUE_FERNANDEZ_CHACON_eyaudy.jpg",
+      "partidoPolitico": {
+        "nombre": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "JOSÉ LUIS",
+      "apellidos": "LUNA MORALES",
+      "mail": "jlunam@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 1
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 1,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166592/golpista.pe/JOSE_LUIS_LUNA_MORALES_vmrznk.jpg",
+      "partidoPolitico": {
+        "nombre": "PODEMOS PERU",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "MANUEL ARTURO",
+      "apellidos": "MERINO DE LAMA",
+      "mail": "amerino@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "no voto",
+        "admisionVacancia": "no voto"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 1,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166614/golpista.pe/MANUEL_ARTURO_MERINO_DE_LAMA_xkldxa.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "TUMBES"
+      }
+    },
+    {
+      "nombres": "ANTHONY RENSON",
+      "apellidos": "NOVOA CRUZADO",
+      "mail": "anovoa@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": 1,
+        "admisionVacancia": 2
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "investigaciones": 1,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/ANTHONY_RENSON_NOVOA_CRUZADO_lz0zih.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "LA LIBERTAD"
+      }
+    },
+    {
+      "nombres": "FRANCO",
+      "apellidos": "SALINAS LÓPEZ",
+      "mail": "fsalinas@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 1,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/FRANCO_SALINAS_LOPEZ_azwukp.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "PIURA"
+      }
+    },
+    {
+      "nombres": "GILMER",
+      "apellidos": "TRUJILLO ZEGARRA",
+      "mail": "gtrujillo@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 1,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/GILMER_TRUJILLO_ZEGARRA_hvkf75.jpg",
+      "partidoPolitico": {
+        "nombre": "FUERZA POPULAR",
+        "departamento": "SAN MARTIN"
+      }
+    },
+    {
+      "nombres": "MIRTHA ESTHER",
+      "apellidos": "VÁSQUEZ CHUQUILIN",
+      "mail": "mvasquezch@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "0",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 1,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166621/golpista.pe/MIRTHA_ESTHER_VASQUEZ_CHUQUILIN_yoeljd.jpg",
+      "partidoPolitico": {
+        "nombre": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+        "departamento": "CAJAMARCA"
       }
     },
     {
@@ -152,25 +1545,6 @@
       }
     },
     {
-      "nombres": "JOSE LUIS",
-      "apellidos": "ANCALLE GUTIERREZ",
-      "mail": "jancalle@congreso.gob.pe",
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "investigaciones": 2,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166592/golpista.pe/JOSE_LUIS_ANCALLE_GUTIERREZ_xih7so.jpg",
-      "partidoPolitico": {
-        "nombre": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
-        "departamento": "AREQUIPA"
-      }
-    },
-    {
       "nombres": "YESSICA MARISELA",
       "apellidos": "APAZA QUISPE",
       "mail": "yapaza@congreso.gob.pe",
@@ -186,25 +1560,6 @@
       "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/YESSICA_MARISELA_APAZA_QUISPE_in3bmr.jpg",
       "partidoPolitico": {
         "nombre": "UNION POR EL PERU",
-        "departamento": "PUNO"
-      }
-    },
-    {
-      "nombres": "JESUS ORLANDO",
-      "apellidos": "ARAPA ROQUE",
-      "mail": "jarapa@congreso.gob.pe",
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "investigaciones": 4,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/JESUS_ORLANDO_ARAPA_ROQUE_gn2wvh.jpg",
-      "partidoPolitico": {
-        "nombre": "ACCIÓN POPULAR",
         "departamento": "PUNO"
       }
     },
@@ -225,25 +1580,6 @@
       "partidoPolitico": {
         "nombre": "ALIANZA PARA EL PROGRESO",
         "departamento": "MOQUEGUA"
-      }
-    },
-    {
-      "nombres": "RITA ELENA",
-      "apellidos": "AYASTA DE DIAZ",
-      "mail": "rayasta@congreso.gob.pe",
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "investigaciones": 37,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166623/golpista.pe/RITA_ELENA_AYASTA_DE_DIAZ_vhkfpj.jpg",
-      "partidoPolitico": {
-        "nombre": "FUERZA POPULAR",
-        "departamento": "LAMBAYEQUE"
       }
     },
     {
@@ -285,82 +1621,6 @@
       }
     },
     {
-      "nombres": "BETTO",
-      "apellidos": "BARRIONUEVO ROMERO",
-      "mail": "bbarrionuevo@congreso.gob.pe",
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "investigaciones": 14,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/BETTO_BARRIONUEVO_ROMERO_qvs5ex.jpg",
-      "partidoPolitico": {
-        "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
-        "departamento": "ANCASH"
-      }
-    },
-    {
-      "nombres": "MARIA ISABEL",
-      "apellidos": "BARTOLO ROMERO",
-      "mail": "mbartolo@congreso.gob.pe",
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "investigaciones": 1,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166617/golpista.pe/MARIA_ISABEL_BARTOLO_ROMERO_ua887j.jpg",
-      "partidoPolitico": {
-        "nombre": "UNION POR EL PERU",
-        "departamento": "ANCASH"
-      }
-    },
-    {
-      "nombres": "LENIN FERNANDO",
-      "apellidos": "BAZAN VILLANUEVA",
-      "mail": "lbazan@congreso.gob.pe",
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "investigaciones": 2,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166611/golpista.pe/LENIN_FERNANDO_BAZAN_VILLANUEVA_grsa2s.jpg",
-      "partidoPolitico": {
-        "nombre": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
-        "departamento": "LA LIBERTAD"
-      }
-    },
-    {
-      "nombres": "WALTER",
-      "apellidos": "BENAVIDES GAVIDIA",
-      "mail": "wbenavides@congreso.gob.pe",
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 0
-      },
-      "investigaciones": 18,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166587/golpista.pe/WALTER_BENAVIDES_GAVIDIA_vxoqmg.jpg",
-      "partidoPolitico": {
-        "nombre": "ALIANZA PARA EL PROGRESO",
-        "departamento": "CAJAMARCA"
-      }
-    },
-    {
       "nombres": "ALFREDO",
       "apellidos": "BENITES AGURTO",
       "mail": "abenites@congreso.gob.pe",
@@ -377,63 +1637,6 @@
       "partidoPolitico": {
         "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
         "departamento": "LIMA PROVINCIAS"
-      }
-    },
-    {
-      "nombres": "RICARDO MIGUEL",
-      "apellidos": "BURGA CHUQUIPIONDO",
-      "mail": "rburga@congreso.gob.pe",
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "investigaciones": 14,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166623/golpista.pe/RICARDO_MIGUEL_BURGA_CHUQUIPIONDO_uxdcoj.jpg",
-      "partidoPolitico": {
-        "nombre": "ACCIÓN POPULAR",
-        "departamento": "LIMA"
-      }
-    },
-    {
-      "nombres": "MARIA TERESA",
-      "apellidos": "CABRERA VEGA",
-      "mail": "mcabrera@congreso.gob.pe",
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "votos": {
-        "votoVacancia": 0,
-        "admisionVacancia": 1
-      },
-      "investigaciones": 2,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166617/golpista.pe/MARIA_TERESA_CABRERA_VEGA_lllcga.jpg",
-      "partidoPolitico": {
-        "nombre": "PODEMOS PERU",
-        "departamento": "LIMA"
-      }
-    },
-    {
-      "nombres": "ROLANDO",
-      "apellidos": "CAMPOS VILLALOBOS",
-      "mail": "r_campos@congreso.gob.pe",
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "votos": {
-        "votoVacancia": 0,
-        "admisionVacancia": 0
-      },
-      "investigaciones": 1,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166628/golpista.pe/ROLANDO_CAMPOS_VILLALOBOS_ytfktr.jpg",
-      "partidoPolitico": {
-        "nombre": "ACCIÓN POPULAR",
-        "departamento": "LAMBAYEQUE"
       }
     },
     {
@@ -456,25 +1659,6 @@
       }
     },
     {
-      "nombres": "LUIS FELIPE",
-      "apellidos": "CASTILLO OLIVA",
-      "mail": "lcastilloo@congreso.gob.pe",
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "investigaciones": 1,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/IRENE_CARCAUSTO_HUANCA_blfihn.jpg",
-      "partidoPolitico": {
-        "nombre": "PODEMOS PERU",
-        "departamento": "LIMA"
-      }
-    },
-    {
       "nombres": "LUZ MILAGROS",
       "apellidos": "CAYGUARAY GAMBINI",
       "mail": "lcayguaray@congreso.gob.pe",
@@ -491,120 +1675,6 @@
       "partidoPolitico": {
         "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
         "departamento": "LORETO"
-      }
-    },
-    {
-      "nombres": "WILMER",
-      "apellidos": "CAYLLAHUA BARRIENTOS",
-      "mail": "wcayllahua@congreso.gob.pe",
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 2
-      },
-      "investigaciones": 1,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/WILMER_CAYLLAHUA_BARRIENTOS_muqehe.jpg",
-      "partidoPolitico": {
-        "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
-        "departamento": "LIMA"
-      }
-    },
-    {
-      "nombres": "MARIA TERESA",
-      "apellidos": "CESPEDES CARDENAS DE VELASQUEZ",
-      "mail": "mcespedes@congreso.gob.pe",
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 2
-      },
-      "investigaciones": 2,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166617/golpista.pe/MARIA_TERESA_CESPEDES_CARDENAS_DE_VELASQUEZ_ahfnjp.jpg",
-      "partidoPolitico": {
-        "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
-        "departamento": "LIMA"
-      }
-    },
-    {
-      "nombres": "POSEMOSCROWTE IRRHOSCOPT",
-      "apellidos": "CHAGUA PAYANO",
-      "mail": "pchagua@congreso.gob.pe",
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "investigaciones": 71,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/POSEMOSCROWTE_IRRHOSCOPT_CHAGUA_PAYANO_totjyt.jpg",
-      "partidoPolitico": {
-        "nombre": "UNION POR EL PERU",
-        "departamento": "HUANCAVELICA"
-      }
-    },
-    {
-      "nombres": "HIPOLITO",
-      "apellidos": "CHAIÑA CONTRERAS",
-      "mail": "hchaina@congreso.gob.pe",
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "investigaciones": 9,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/HIPOLITO_CHAI%C3%91A_CONTRERAS_ulf2tv.jpg",
-      "partidoPolitico": {
-        "nombre": "UNION POR EL PERU",
-        "departamento": "AREQUIPA"
-      }
-    },
-    {
-      "nombres": "ROBERTO CARLOS",
-      "apellidos": "CHAVARRIA VILCATOMA",
-      "mail": "rchavarria@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 5,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166627/golpista.pe/ROBERTO_CARLOS_CHAVARRIA_VILCATOMA_cpepwt.jpg",
-      "partidoPolitico": {
-        "nombre": "UNION POR EL PERU",
-        "departamento": "JUNIN"
-      }
-    },
-    {
-      "nombres": "MARTHA GLADYS",
-      "apellidos": "CHAVEZ COSSIO",
-      "mail": "mchavez@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 1,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166620/golpista.pe/MARTHA_GLADYS_CHAVEZ_COSSIO_yqbujl.jpg",
-      "partidoPolitico": {
-        "nombre": "FUERZA POPULAR",
-        "departamento": "LIMA"
       }
     },
     {
@@ -627,63 +1697,6 @@
       }
     },
     {
-      "nombres": "OMAR KARIM",
-      "apellidos": "CHEHADE MOYA",
-      "mail": "ochehade@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 0
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 6,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/OMAR_KARIM_CHEHADE_MOYA_qvkvka.jpg",
-      "partidoPolitico": {
-        "nombre": "ALIANZA PARA EL PROGRESO",
-        "departamento": "LIMA"
-      }
-    },
-    {
-      "nombres": "DIETHELL",
-      "apellidos": "COLUMBUS MURATA",
-      "mail": "dcolumbus@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 11,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/DIETHELL_COLUMBUS_MURATA_wnuzu1.jpg",
-      "partidoPolitico": {
-        "nombre": "FUERZA POPULAR",
-        "departamento": "LIMA"
-      }
-    },
-    {
-      "nombres": "CESAR AUGUSTO",
-      "apellidos": "COMBINA SALVATIERRA",
-      "mail": "ccombina@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 0
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 4,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/CESAR_AUGUSTO_COMBINA_SALVATIERRA_yya1nn.jpg",
-      "partidoPolitico": {
-        "nombre": "ALIANZA PARA EL PROGRESO",
-        "departamento": "JUNIN"
-      }
-    },
-    {
       "nombres": "JULIO FREDY",
       "apellidos": "CONDORI FLORES",
       "mail": "jcondori@congreso.gob.pe",
@@ -700,44 +1713,6 @@
       "partidoPolitico": {
         "nombre": "ALIANZA PARA EL PROGRESO",
         "departamento": "ICA"
-      }
-    },
-    {
-      "nombres": "CINDY ARLETTE",
-      "apellidos": "CONTRERAS BAUTISTA",
-      "mail": "ccontrerasb@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 2,
-        "admisionVacancia": 2
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 5,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/CINDY_ARLETTE_CONTRERAS_BAUTISTA_yvmbay.jpg",
-      "partidoPolitico": {
-        "nombre": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
-        "departamento": "LIMA"
-      }
-    },
-    {
-      "nombres": "GINO FRANCISCO",
-      "apellidos": "COSTA SANTOLALLA",
-      "mail": "gcosta@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 0,
-        "admisionVacancia": 0
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 6,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605222441/golpista.pe/GINO_COSTA_ljrdew.png",
-      "partidoPolitico": {
-        "nombre": "PARTIDO MORADO",
-        "departamento": "LIMA"
       }
     },
     {
@@ -760,25 +1735,6 @@
       }
     },
     {
-      "nombres": "LUIS REYMUNDO",
-      "apellidos": "DIOSES GUZMAN",
-      "mail": "ldioses@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 0
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 32,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LUIS_REYMUNDO_DIOSES_GUZMAN_xkf4qf.jpg",
-      "partidoPolitico": {
-        "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
-        "departamento": "PIURA"
-      }
-    },
-    {
       "nombres": "KENYON EDUARDO",
       "apellidos": "DURAND BUSTAMANTE",
       "mail": "kdurand@congreso.gob.pe",
@@ -798,82 +1754,6 @@
       }
     },
     {
-      "nombres": "RENNAN SAMUEL",
-      "apellidos": "ESPINOZA ROSALES",
-      "mail": "respinoza@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 0,
-        "admisionVacancia": 0
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 112,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/RENNAN_SAMUEL_ESPINOZA_ROSALES_cgjdu2.jpg",
-      "partidoPolitico": {
-        "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
-        "departamento": "LIMA"
-      }
-    },
-    {
-      "nombres": "YEREMI ARON",
-      "apellidos": "ESPINOZA VELARDE",
-      "mail": "yespinoza@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 15,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/YEREMI_ARON_ESPINOZA_VELARDE_tag4sw.jpg",
-      "partidoPolitico": {
-        "nombre": "PODEMOS PERU",
-        "departamento": "LIMA"
-      }
-    },
-    {
-      "nombres": "YESSY NELIDA",
-      "apellidos": "FABIAN DIAZ",
-      "mail": "yfabian@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": "no voto"
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 1,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/YESSY_NELIDA_FABIAN_DIAZ_vtcr3f.jpg",
-      "partidoPolitico": {
-        "nombre": "ACCIÓN POPULAR",
-        "departamento": "HUANUCO"
-      }
-    },
-    {
-      "nombres": "CARLOS ENRIQUE",
-      "apellidos": "FERNANDEZ CHACON",
-      "mail": "cfernandezch@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 1,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/CARLOS_ENRIQUE_FERNANDEZ_CHACON_eyaudy.jpg",
-      "partidoPolitico": {
-        "nombre": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
-        "departamento": "LIMA"
-      }
-    },
-    {
       "nombres": "MATILDE",
       "apellidos": "FERNANDEZ FLOREZ",
       "mail": "mfernandez@congreso.gob.pe",
@@ -890,25 +1770,6 @@
       "partidoPolitico": {
         "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
         "departamento": "CUSCO"
-      }
-    },
-    {
-      "nombres": "JOHAN",
-      "apellidos": "FLORES VILLEGAS",
-      "mail": "jfloresv@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 2,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/JOHAN_FLORES_VILLEGAS_ywm8aj.jpg",
-      "partidoPolitico": {
-        "nombre": "PODEMOS PERU",
-        "departamento": "MOQUEGUA"
       }
     },
     {
@@ -950,44 +1811,6 @@
       }
     },
     {
-      "nombres": "PAUL GABRIEL",
-      "apellidos": "GARCIA OVIEDO",
-      "mail": "pgarcia@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 4,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/PAUL_GABRIEL_GARCIA_OVIEDO_rjurcb.jpg",
-      "partidoPolitico": {
-        "nombre": "ACCIÓN POPULAR",
-        "departamento": "CALLAO"
-      }
-    },
-    {
-      "nombres": "CESAR",
-      "apellidos": "GONZALES TUANAMA",
-      "mail": "cgonzales@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 18,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/CESAR_GONZALES_TUANAMA_ocm2re.jpg",
-      "partidoPolitico": {
-        "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
-        "departamento": "UCAYALI"
-      }
-    },
-    {
       "nombres": "MIGUEL ANGEL",
       "apellidos": "GONZALES SANTOS",
       "mail": "mgonzaless@congreso.gob.pe",
@@ -1007,63 +1830,6 @@
       }
     },
     {
-      "nombres": "MOISES",
-      "apellidos": "GONZALEZ CRUZ",
-      "mail": "mgonzalezc@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 2
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 14,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166621/golpista.pe/MOISES_GONZALEZ_CRUZ_gd6vj1.jpg",
-      "partidoPolitico": {
-        "nombre": "ALIANZA PARA EL PROGRESO",
-        "departamento": "CAJAMARCA"
-      }
-    },
-    {
-      "nombres": "OTTO NAPOLEON",
-      "apellidos": "GUIBOVICH ARTEAGA",
-      "mail": "oguibovich@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 19,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/OTTO_NAPOLEON_GUIBOVICH_ARTEAGA_txlo6y.jpg",
-      "partidoPolitico": {
-        "nombre": "ACCIÓN POPULAR",
-        "departamento": "ANCASH"
-      }
-    },
-    {
-      "nombres": "ROBINSON DOCITEO",
-      "apellidos": "GUPIOC RIOS",
-      "mail": "rgupioc@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 3,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166627/golpista.pe/ROBINSON_DOCITEO_GUPIOC_RIOS_xtsqx4.jpg",
-      "partidoPolitico": {
-        "nombre": "PODEMOS PERU",
-        "departamento": "LIMA"
-      }
-    },
-    {
       "nombres": "ROBLEDO NOE",
       "apellidos": "GUTARRA RAMOS",
       "mail": "rgutarra@congreso.gob.pe",
@@ -1080,44 +1846,6 @@
       "partidoPolitico": {
         "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
         "departamento": "JUNIN"
-      }
-    },
-    {
-      "nombres": "ALEXANDER",
-      "apellidos": "HIDALGO ZAMALLOA",
-      "mail": "ahidalgo@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 0
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 8,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166587/golpista.pe/ALEXANDER_HIDALGO_ZAMALLOA_bromcv.jpg",
-      "partidoPolitico": {
-        "nombre": "ALIANZA PARA EL PROGRESO",
-        "departamento": "CUSCO"
-      }
-    },
-    {
-      "nombres": "JUAN DE DIOS",
-      "apellidos": "HUAMAN CHAMPI",
-      "mail": "jhuamanch@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 2
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 2,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166609/golpista.pe/JUAN_DE_DIOS_HUAMAN_CHAMPI_uognmh.jpg",
-      "partidoPolitico": {
-        "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
-        "departamento": "CUSCO"
       }
     },
     {
@@ -1159,63 +1887,6 @@
       }
     },
     {
-      "nombres": "LESLYE CAROL",
-      "apellidos": "LAZO VILLON",
-      "mail": "llazo@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 2,
-        "admisionVacancia": 1
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 2,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LESLYE_CAROL_LAZO_VILLON_ky8vny.jpg",
-      "partidoPolitico": {
-        "nombre": "ACCIÓN POPULAR",
-        "departamento": "LIMA"
-      }
-    },
-    {
-      "nombres": "MARTIRES",
-      "apellidos": "LIZANA SANTOS",
-      "mail": "mlizana@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 11,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166621/golpista.pe/MARTIRES_LIZANA_SANTOS_xaszik.jpg",
-      "partidoPolitico": {
-        "nombre": "FUERZA POPULAR",
-        "departamento": "PIURA"
-      }
-    },
-    {
-      "nombres": "CAROLINA",
-      "apellidos": "LIZARRAGA HOUGHTON",
-      "mail": "clizarraga@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 0,
-        "admisionVacancia": "no voto"
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 3,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/CAROLINA_LIZARRAGA_HOUGHTON_pskic2.jpg",
-      "partidoPolitico": {
-        "nombre": "PARTIDO MORADO",
-        "departamento": "LIMA"
-      }
-    },
-    {
       "nombres": "FREDDY",
       "apellidos": "LLAULLI ROMERO",
       "mail": "fllaulli@congreso.gob.pe",
@@ -1254,44 +1925,6 @@
       }
     },
     {
-      "nombres": "JOSE LUIS",
-      "apellidos": "LUNA MORALES",
-      "mail": "jlunam@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 1,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166592/golpista.pe/JOSE_LUIS_LUNA_MORALES_vmrznk.jpg",
-      "partidoPolitico": {
-        "nombre": "PODEMOS PERU",
-        "departamento": "LIMA"
-      }
-    },
-    {
-      "nombres": "RAUL",
-      "apellidos": "MACHACA MAMANI",
-      "mail": "jmamani@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 2
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 2,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/RAUL_MACHACA_MAMANI_owmp4l.jpg",
-      "partidoPolitico": {
-        "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
-        "departamento": "TACNA"
-      }
-    },
-    {
       "nombres": "JIM ALI",
       "apellidos": "MAMANI BARRIGA",
       "mail": "jmamani@congreso.gob.pe",
@@ -1308,44 +1941,6 @@
       "partidoPolitico": {
         "nombre": "UNION POR EL PERU",
         "departamento": "AYACUCHO"
-      }
-    },
-    {
-      "nombres": "HECTOR SIMON",
-      "apellidos": "MAQUERA CHAVEZ",
-      "mail": "hmaquera@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 8,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/HECTOR_SIMON_MAQUERA_CHAVEZ_xvvktv.jpg",
-      "partidoPolitico": {
-        "nombre": "UNION POR EL PERU",
-        "departamento": "TACNA"
-      }
-    },
-    {
-      "nombres": "FERNANDO",
-      "apellidos": "MELENDEZ CELIS",
-      "mail": "fmelendez@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": "no voto"
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 143,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/FERNANDO_MELENDEZ_CELIS_vbsciz.jpg",
-      "partidoPolitico": {
-        "nombre": "ALIANZA PARA EL PROGRESO",
-        "departamento": "LORETO"
       }
     },
     {
@@ -1368,63 +1963,6 @@
       }
     },
     {
-      "nombres": "MANUEL ARTURO",
-      "apellidos": "MERINO DE LAMA",
-      "mail": "amerino@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": "no voto",
-        "admisionVacancia": "no voto"
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 1,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166614/golpista.pe/MANUEL_ARTURO_MERINO_DE_LAMA_xkldxa.jpg",
-      "partidoPolitico": {
-        "nombre": "ACCIÓN POPULAR",
-        "departamento": "TUMBES"
-      }
-    },
-    {
-      "nombres": "OMAR",
-      "apellidos": "MERINO LOPEZ",
-      "mail": "omerino@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 0
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 5,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/OMAR_MERINO_LOPEZ_mr2qjp.jpg",
-      "partidoPolitico": {
-        "nombre": "ALIANZA PARA EL PROGRESO",
-        "departamento": "APURIMAC"
-      }
-    },
-    {
-      "nombres": "CARLOS FERNANDO",
-      "apellidos": "MESIA RAMIREZ",
-      "mail": "cmesia@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 1
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 4,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/CARLOS_FERNANDO_MESIA_RAMIREZ_fcmbr2.jpg",
-      "partidoPolitico": {
-        "nombre": "FUERZA POPULAR",
-        "departamento": "LIMA"
-      }
-    },
-    {
       "nombres": "ABSALON",
       "apellidos": "MONTOYA GUIVIN",
       "mail": "amontoya@congreso.gob.pe",
@@ -1441,25 +1979,6 @@
       "partidoPolitico": {
         "nombre": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
         "departamento": "AMAZONAS"
-      }
-    },
-    {
-      "nombres": "ANTHONY RENSON",
-      "apellidos": "NOVOA CRUZADO",
-      "mail": "anovoa@congreso.gob.pe",
-      "votos": {
-        "votoVacancia": 1,
-        "admisionVacancia": 2
-      },
-      "cargoPublico": {
-        "tipo": "Congresista",
-        "activo": true
-      },
-      "investigaciones": 1,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/ANTHONY_RENSON_NOVOA_CRUZADO_lz0zih.jpg",
-      "partidoPolitico": {
-        "nombre": "ACCIÓN POPULAR",
-        "departamento": "LA LIBERTAD"
       }
     },
     {
@@ -1482,1042 +2001,523 @@
       }
     },
     {
-      "nombres": "JOSE ANTONIO",
-      "apellidos": "NUÑEZ SALAS",
-      "mail": "jnunezs@congreso.gob.pe",
+      "nombres": "DANIEL FEDERICO",
+      "apellidos": "OLIVARES CORTES",
+      "mail": "dolivares@congreso.gob.pe",
       "votos": {
-        "votoVacancia": 0,
-        "admisionVacancia": 0
+        "votoVacancia": "0",
+        "admisionVacancia": "0"
       },
       "cargoPublico": {
         "tipo": "Congresista",
         "activo": true
       },
-      "investigaciones": 6,
-      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166592/golpista.pe/JOSE_ANTONIO_NU%C3%91EZ_SALAS_jyemkl.jpg",
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/DANIEL_FEDERICO_OLIVARES_CORTES_ezgoqk.jpg",
       "partidoPolitico": {
         "nombre": "PARTIDO MORADO",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "MARIA DEL CARMEN",
+      "apellidos": "OMONTE DURAND",
+      "mail": "momonte@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166617/golpista.pe/MARIA_DEL_CARMEN_OMONTE_DURAND_k8ukyj.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "DANIEL",
+      "apellidos": "OSEDA YUCRA",
+      "mail": " doseday@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "2"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/DANIEL_OSEDA_YUCRA_rxodln.jpg",
+      "partidoPolitico": {
+        "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
         "departamento": "AREQUIPA"
       }
     },
     {
-          "nombres": "DANIEL FEDERICO",
-          "apellidos": "OLIVARES CORTES",
-          "mail": "dolivares@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "0",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/DANIEL_FEDERICO_OLIVARES_CORTES_ezgoqk.jpg",
-          "partidoPolitico": {
-              "nombre": "PARTIDO MORADO",
-              "departamento": "LIMA"
-          }
+      "nombres": "JUAN CARLOS",
+      "apellidos": "OYOLA RODRIGUEZ",
+      "mail": "joyola@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
       },
-      {
-          "nombres": "MARIA DEL CARMEN",
-          "apellidos": "OMONTE DURAND",
-          "mail": "momonte@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166617/golpista.pe/MARIA_DEL_CARMEN_OMONTE_DURAND_k8ukyj.jpg",
-          "partidoPolitico": {
-              "nombre": "ALIANZA PARA EL PROGRESO",
-              "departamento": "LIMA"
-          }
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
       },
-      {
-          "nombres": "DANIEL",
-          "apellidos": "OSEDA YUCRA",
-          "mail": " doseday@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "2"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/DANIEL_OSEDA_YUCRA_rxodln.jpg",
-          "partidoPolitico": {
-              "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
-              "departamento": "AREQUIPA"
-          }
-      },
-      {
-          "nombres": "JUAN CARLOS",
-          "apellidos": "OYOLA RODRIGUEZ",
-          "mail": "joyola@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones":0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166598/golpista.pe/JUAN_CARLOS_OYOLA_RODRIGUEZ_eqqflv.jpg",
-          "partidoPolitico": {
-              "nombre": "ACCIÓN POPULAR",
-              "departamento": "ICA"
-          }
-      },
-      {
-          "nombres": "ANGELICA MARIA",
-          "apellidos": "PALOMINO SAAVEDRA",
-          "mail": "apalomino@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "0",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 13,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/ANGELICA_MARIA_PALOMINO_SAAVEDRA_eouqcq.jpg",
-          "partidoPolitico": {
-              "nombre": "PARTIDO MORADO",
-              "departamento": "PIURA"
-          }
-      },
-      {
-          "nombres": "RUBEN",
-          "apellidos": "PANTOJA CALVO",
-          "mail": "rpantoja@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 12,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166628/golpista.pe/RUBEN_PANTOJA_CALVO_s4lon7.jpg",
-          "partidoPolitico": {
-              "nombre": "UNION POR EL PERU",
-              "departamento": "CUSCO"
-          }
-      },
-      {
-          "nombres": "ROSARIO",
-          "apellidos": "PAREDES EYZAGUIRRE",
-          "mail": "rparedes@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166628/golpista.pe/ROSARIO_PAREDES_EYZAGUIRRE_fk6zds.jpg",
-          "partidoPolitico": {
-              "nombre": "ACCIÓN POPULAR",
-              "departamento": "AREQUIPA"
-          }
-      },
-      {
-          "nombres": "CARLOS ANDRES",
-          "apellidos": "PEREZ OCHOA",
-          "mail": "cperezo@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "no voto"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 11,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/CARLOS_ANDRES_PEREZ_OCHOA_b1008w.jpg",
-          "partidoPolitico": {
-              "nombre": "ACCIÓN POPULAR",
-              "departamento": "LIMA PROVINCIAS"
-          }
-      },
-      {
-          "nombres": "JHOSEPT AMADO",
-          "apellidos": "PEREZ MIMBELA",
-          "mail": "jperezm@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 40,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/JHOSEPT_AMADO_PEREZ_MIMBELA_n7yobr.jpg",
-          "partidoPolitico": {
-              "nombre": "ALIANZA PARA EL PROGRESO",
-              "departamento": "ANCASH"
-          }
-      },
-      {
-          "nombres": "JORGE LUIS",
-          "apellidos": "PEREZ FLORES",
-          "mail": "jperezf@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/JORGE_LUIS_PEREZ_FLORES_zozonk.jpg",
-          "partidoPolitico": {
-              "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
-              "departamento": "LAMBAYEQUE"
-          }
-      },
-      {
-          "nombres": "LUSMILA",
-          "apellidos": "PEREZ ESPIRITU",
-          "mail": "lperez@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LUSMILA_PEREZ_ESPIRITU_doacrl.jpg",
-          "partidoPolitico": {
-              "nombre": "ALIANZA PARA EL PROGRESO",
-              "departamento": "HUANUCO"
-          }
-      },
-      {
-          "nombres": "MARCOS ANTONIO",
-          "apellidos": "PICHILINGUE GOMEZ",
-          "mail": "mpichilingue@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 3,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166616/golpista.pe/MARCOS_ANTONIO_PICHILINGUE_GOMEZ_j8cl5j.jpg",
-          "partidoPolitico": {
-              "nombre": "FUERZA POPULAR",
-              "departamento": "CALLAO"
-          }
-      },
-      {
-          "nombres": "ISAIAS",
-          "apellidos": "PINEDA SANTOS",
-          "mail": "ipineda@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "2"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/ISAIAS_PINEDA_SANTOS_ud89hh.jpg",
-          "partidoPolitico": {
-              "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
-              "departamento": "LIMA"
-          }
-      },
-      {
-          "nombres": "LILIANA ANGELICA",
-          "apellidos": "PINEDO ACHACA",
-          "mail": "lpinedoa@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 3,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LILIANA_ANGELICA_PINEDO_ACHACA_edrnsq.jpg",
-          "partidoPolitico": {
-              "nombre": "FUERZA POPULAR",
-              "departamento": "LIMA PROVINCIAS"
-          }
-      },
-      {
-          "nombres": "NAPOLEON",
-          "apellidos": "PUÑO LECARNAQUE",
-          "mail": "npuno@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 31,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/NAPOLEON_PU%C3%91O_LECARNAQUE_n7onfn.jpg",
-          "partidoPolitico": {
-              "nombre": "ALIANZA PARA EL PROGRESO",
-              "departamento": "TUMBES"
-          }
-      },
-      {
-          "nombres": "MARIO JAVIER",
-          "apellidos": "QUISPE SUAREZ",
-          "mail": "mquispes@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 8,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166618/golpista.pe/MARIO_JAVIER_QUISPE_SUAREZ_z0hr2h.jpg",
-          "partidoPolitico": {
-              "nombre": "ALIANZA PARA EL PROGRESO",
-              "departamento": "PIURA"
-          }
-      },
-      {
-          "nombres": "YVAN",
-          "apellidos": "QUISPE APAZA",
-          "mail": "mquispes@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/YVAN_QUISPE_APAZA_phoqmy.jpg",
-          "partidoPolitico": {
-              "nombre": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
-              "departamento": "PUNO"
-          }
-      },
-      {
-          "nombres": "RUBEN",
-          "apellidos": "RAMOS ZAPANA",
-          "mail": "rramos@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 3,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166587/golpista.pe/RUBEN_RAMOS_ZAPANA_di5lu8.jpg",
-          "partidoPolitico": {
-              "nombre": "UNION POR EL PERU",
-              "departamento": "PUNO"
-          }
-      },
-      {
-          "nombres": "ALCIDES",
-          "apellidos": "RAYME MARIN",
-          "mail": "arayme@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "2"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166587/golpista.pe/ALCIDES_RAYME_MARIN_uwhfac.jpg",
-          "partidoPolitico": {
-              "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
-              "departamento": "CALLAO"
-          }
-      },
-      {
-          "nombres": "MARIA CRISTINA",
-          "apellidos": "RETAMOZO LEZAMA",
-          "mail": "mretamozo@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "2"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166617/golpista.pe/MARIA_CRISTINA_RETAMOZO_LEZAMA_pde8o6.jpg",
-          "partidoPolitico": {
-              "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
-              "departamento": "LIMA"
-          }
-      },
-      {
-          "nombres": "PERCI",
-          "apellidos": "RIVAS OCEJO",
-          "mail": "privas@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/PERCI_RIVAS_OCEJO_oscohy.jpg",
-          "partidoPolitico": {
-              "nombre": "ALIANZA PARA EL PROGRESO",
-              "departamento": "AYACUCHO"
-          }
-      },
-      {
-          "nombres": "WALTER JESUS",
-          "apellidos": "RIVERA GUERRA",
-          "mail": "wriverag@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 3,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/WALTER_JESUS_RIVERA_GUERRA_avmfnp.jpg",
-          "partidoPolitico": {
-              "nombre": "ACCIÓN POPULAR",
-              "departamento": "LIMA"
-          }
-      },
-      {
-          "nombres": "TANIA ROSALIA",
-          "apellidos": "RODAS MALCA",
-          "mail": "trodas@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 7,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166587/golpista.pe/TANIA_ROSALIA_RODAS_MALCA_rjwomj.jpg",
-          "partidoPolitico": {
-              "nombre": "ALIANZA PARA EL PROGRESO",
-              "departamento": "LA LIBERTAD"
-          }
-      },
-      {
-          "nombres": "LUIS ANDRES",
-          "apellidos": "ROEL ALVA",
-          "mail": "lroel@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "0",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LUIS_ANDRES_ROEL_ALVA_riib3a.jpg",
-          "partidoPolitico": {
-              "nombre": "ACCIÓN POPULAR",
-              "departamento": "LIMA"
-          }
-      },
-      {
-          "nombres": "RICHARD",
-          "apellidos": "RUBIO GARIZA",
-          "mail": "rrubio@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "no voto",
-              "admisionVacancia": "no voto"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166623/golpista.pe/RICHARD_RUBIO_GARIZA_gdzmpz.jpg",
-          "partidoPolitico": {
-              "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
-              "departamento": "LIMA"
-          }
-      },
-      {
-          "nombres": "ROLANDO RUBEN",
-          "apellidos": "RUIZ PINEDO",
-          "mail": "rruiz@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 3,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166628/golpista.pe/ROLANDO_RUBEN_RUIZ_PINEDO_bmc5ju.jpg",
-          "partidoPolitico": {
-              "nombre": "ACCIÓN POPULAR",
-              "departamento": "SAN MARTIN"
-          }
-      },
-      {
-          "nombres": "MONICA ELIZABETH",
-          "apellidos": "SAAVEDRA OCHARAN",
-          "mail": "msaavedra@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "no voto"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/MONICA_ELIZABETH_SAAVEDRA_OCHARAN_x1phnv.jpg",
-          "partidoPolitico": {
-              "nombre": "ACCIÓN POPULAR",
-              "departamento": "LIMA"
-          }
-      },
-      {
-          "nombres": "FRANCISCO RAFAEL",
-          "apellidos": "SAGASTI HOCHHAUSLER",
-          "mail": "fsagasti@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "0",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/FRANCISCO_RAFAEL_SAGASTI_HOCHHAUSLER_zs5zqp.jpg",
-          "partidoPolitico": {
-              "nombre": "PARTIDO MORADO",
-              "departamento": "LIMA"
-          }
-      },
-      {
-          "nombres": "FRANCO",
-          "apellidos": "SALINAS LOPEZ",
-          "mail": "fsalinas@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 1,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/FRANCO_SALINAS_LOPEZ_azwukp.jpg",
-          "partidoPolitico": {
-              "nombre": "ACCIÓN POPULAR",
-              "departamento": "PIURA"
-          }
-      },
-      {
-          "nombres": "ORESTES POMPEYO",
-          "apellidos": "SANCHEZ LUIS",
-          "mail": "osanchez@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/ORESTES_POMPEYO_SANCHEZ_LUIS_nrvrhu.jpg",
-          "partidoPolitico": {
-              "nombre": "PODEMOS PERU",
-              "departamento": "LIMA"
-          }
-      },
-      {
-          "nombres": "ROBERTINA",
-          "apellidos": "SANTILLANA PAREDES",
-          "mail": "rsantillana@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 2,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166624/golpista.pe/ROBERTINA_SANTILLANA_PAREDES_kn1jio.jpg",
-          "partidoPolitico": {
-              "nombre": "ALIANZA PARA EL PROGRESO",
-              "departamento": "SAN MARTIN"
-          }
-      },
-      {
-          "nombres": "MARIA LUISA",
-          "apellidos": "SILUPU INGA",
-          "mail": "msilupu@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166617/golpista.pe/MARIA_LUISA_SILUPU_INGA_pkue2j.jpg",
-          "partidoPolitico": {
-              "nombre": "FUERZA POPULAR",
-              "departamento": "PIURA"
-          }
-      },
-      {
-          "nombres": "ROCIO YOLANDA ANGELICA SILVA",
-          "apellidos": "SANTISTEBAN MANRIQUE",
-          "mail": "rsilvas@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "0",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166628/golpista.pe/ROCIO_YOLANDA_ANGELICA_SILVA_SANTISTEBAN_MANRIQUE_fu3wdu.jpg",
-          "partidoPolitico": {
-              "nombre": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
-              "departamento": "LIMA"
-          }
-      },
-      {
-          "nombres": "LUIS CARLOS",
-          "apellidos": "SIMEON HURTADO",
-          "mail": "lsimeon@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 10,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LUIS_CARLOS_SIMEON_HURTADO_bpryk0.jpg",
-          "partidoPolitico": {
-              "nombre": "ACCIÓN POPULAR",
-              "departamento": "PASCO"
-          }
-      },
-      {
-          "nombres": "ZENAIDA",
-          "apellidos": "SOLIS GUTIERREZ",
-          "mail": "zsolis@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "0",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/ZENAIDA_SOLIS_GUTIERREZ_mnmvvz.jpg",
-          "partidoPolitico": {
-              "nombre": "PARTIDO MORADO",
-              "departamento": "LIMA"
-          }
-      },
-      {
-          "nombres": "ERWIN",
-          "apellidos": "TITO ORTEGA",
-          "mail": "etito@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 14,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/ERWIN_TITO_ORTEGA_beb5ml.jpg",
-          "partidoPolitico": {
-              "nombre": "FUERZA POPULAR",
-              "departamento": "JUNIN"
-          }
-      },
-      {
-          "nombres": "FELICITA MADALEINE",
-          "apellidos": "TOCTO GUERRERO",
-          "mail": "ftocto@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/FELICITA_MADALEINE_TOCTO_GUERRERO_dfkgwh.jpg",
-          "partidoPolitico": {
-              "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
-              "departamento": "CAJAMARCA"
-          }
-      },
-      {
-          "nombres": "HANS",
-          "apellidos": "TROYES DELGADO",
-          "mail": "htroyes@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "2",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 2,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/HANS_TROYES_DELGADO_jl9oyf.jpg",
-          "partidoPolitico": {
-              "nombre": "ACCIÓN POPULAR",
-              "departamento": "CAJAMARCA"
-          }
-      },
-      {
-          "nombres": "GILMER",
-          "apellidos": "TRUJILLO ZEGARRA",
-          "mail": "gtrujillo@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 1,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/GILMER_TRUJILLO_ZEGARRA_hvkf75.jpg",
-          "partidoPolitico": {
-              "nombre": "FUERZA POPULAR",
-              "departamento": "SAN MARTIN"
-          }
-      },
-      {
-          "nombres": "DANIEL BELIZARIO",
-          "apellidos": "URRESTI ELERA",
-          "mail": "durresti@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "0",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 33,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/DANIEL_BELIZARIO_URRESTI_ELERA_gffzon.jpg",
-          "partidoPolitico": {
-              "nombre": "PODEMOS PERU",
-              "departamento": "LIMA"
-          }
-      },
-      {
-          "nombres": "LUIS ALBERTO",
-          "apellidos": "VALDEZ FARIAS",
-          "mail": "lvaldez@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "no voto"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 71,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LUIS_ALBERTO_VALDEZ_FARIAS_sbsqfd.jpg",
-          "partidoPolitico": {
-              "nombre": "ALIANZA PARA EL PROGRESO",
-              "departamento": "LA LIBERTAD"
-          }
-      },
-      {
-          "nombres": "VALERIA CAROLINA",
-          "apellidos": "VALER COLLADO",
-          "mail": "vvaler@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/VALERIA_CAROLINA_VALER_COLLADO_pn8f4h.jpg",
-          "partidoPolitico": {
-              "nombre": "FUERZA POPULAR",
-              "departamento": "LIMA"
-          }
-      },
-      {
-          "nombres": "GRIMALDO",
-          "apellidos": "VASQUEZ TAN",
-          "mail": "gvasquez@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 23,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/GRIMALDO_VASQUEZ_TAN_lfolqw.jpg",
-          "partidoPolitico": {
-              "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
-              "departamento": "AMAZONAS"
-          }
-      },
-      {
-          "nombres": "JORGE",
-          "apellidos": "VASQUEZ BECERRA",
-          "mail": "jvasquezb@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "0",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 3,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/JORGE_VASQUEZ_BECERRA_wq5tzu.jpg",
-          "partidoPolitico": {
-              "nombre": "ACCIÓN POPULAR",
-              "departamento": "CUSCO"
-          }
-      },
-      {
-          "nombres": "MIRTHA ESTHER",
-          "apellidos": "VASQUEZ CHUQUILIN",
-          "mail": "mvasquezch@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "0",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 1,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166621/golpista.pe/MIRTHA_ESTHER_VASQUEZ_CHUQUILIN_yoeljd.jpg",
-          "partidoPolitico": {
-              "nombre": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
-              "departamento": "CAJAMARCA"
-          }
-      },
-      {
-          "nombres": "JOSE ALEJANDRO",
-          "apellidos": "VEGA ANTONIO",
-          "mail": "jvegaa@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 7,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166592/golpista.pe/JOSE_ALEJANDRO_VEGA_ANTONIO_ffyc9a.jpg",
-          "partidoPolitico": {
-              "nombre": "UNION POR EL PERU",
-              "departamento": "LIMA"
-          }
-      },
-      {
-          "nombres": "MARCO ANTONIO",
-          "apellidos": "VERDE HEIDINGER",
-          "mail": "mverde@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166614/golpista.pe/MARCO_ANTONIO_VERDE_HEIDINGER_f3sq0a.jpg",
-          "partidoPolitico": {
-              "nombre": "ALIANZA PARA EL PROGRESO",
-              "departamento": "PASCO"
-          }
-      },
-      {
-          "nombres": "WIDMAN NAPOLEON",
-          "apellidos": "VIGO GUTIERREZ",
-          "mail": "wvigo@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/WIDMAN_NAPOLEON_VIGO_GUTIERREZ_mly41g.jpg",
-          "partidoPolitico": {
-              "nombre": "FUERZA POPULAR",
-              "departamento": "CAJAMARCA"
-          }
-      },
-      {
-          "nombres": "MIGUEL ANGEL",
-          "apellidos": "VIVANCO REYES",
-          "mail": "mvivanco@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 4,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166621/golpista.pe/MIGUEL_ANGEL_VIVANCO_REYES_rgvoj3.jpg",
-          "partidoPolitico": {
-              "nombre": "FUERZA POPULAR",
-              "departamento": "LA LIBERTAD"
-          }
-      },
-      {
-          "nombres": "MARIANO ANDRES",
-          "apellidos": "YUPANQUI MIÑANO",
-          "mail": "myupanqui@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "1"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166617/golpista.pe/MARIANO_ANDRES_YUPANQUI_MI%C3%91ANO_geksty.jpg",
-          "partidoPolitico": {
-              "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
-              "departamento": "LA LIBERTAD"
-          }
-      },
-      {
-          "nombres": "EDWARD ALEXANDER",
-          "apellidos": "ZARATE ANTON",
-          "mail": "ezarate@congreso.gob.pe",
-          "votos": {
-              "votoVacancia": "1",
-              "admisionVacancia": "0"
-          },
-          "cargoPublico": {
-              "tipo": "Congresista",
-              "activo": true
-          },
-          "denuncias": [],
-          "investigaciones": 0,
-          "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/EDWARD_ALEXANDER_ZARATE_ANTON_f24abl.jpg",
-          "partidoPolitico": {
-              "nombre": "FUERZA POPULAR",
-              "departamento": "PIURA"
-          }
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166598/golpista.pe/JUAN_CARLOS_OYOLA_RODRIGUEZ_eqqflv.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "ICA"
       }
+    },
+    {
+      "nombres": "ROSARIO",
+      "apellidos": "PAREDES EYZAGUIRRE",
+      "mail": "rparedes@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166628/golpista.pe/ROSARIO_PAREDES_EYZAGUIRRE_fk6zds.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "AREQUIPA"
+      }
+    },
+    {
+      "nombres": "JORGE LUIS",
+      "apellidos": "PEREZ FLORES",
+      "mail": "jperezf@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/JORGE_LUIS_PEREZ_FLORES_zozonk.jpg",
+      "partidoPolitico": {
+        "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "departamento": "LAMBAYEQUE"
+      }
+    },
+    {
+      "nombres": "LUSMILA",
+      "apellidos": "PEREZ ESPIRITU",
+      "mail": "lperez@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LUSMILA_PEREZ_ESPIRITU_doacrl.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "HUANUCO"
+      }
+    },
+    {
+      "nombres": "ISAIAS",
+      "apellidos": "PINEDA SANTOS",
+      "mail": "ipineda@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "2"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166591/golpista.pe/ISAIAS_PINEDA_SANTOS_ud89hh.jpg",
+      "partidoPolitico": {
+        "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "YVAN",
+      "apellidos": "QUISPE APAZA",
+      "mail": "mquispes@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/YVAN_QUISPE_APAZA_phoqmy.jpg",
+      "partidoPolitico": {
+        "nombre": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+        "departamento": "PUNO"
+      }
+    },
+    {
+      "nombres": "ALCIDES",
+      "apellidos": "RAYME MARIN",
+      "mail": "arayme@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "2"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166587/golpista.pe/ALCIDES_RAYME_MARIN_uwhfac.jpg",
+      "partidoPolitico": {
+        "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+        "departamento": "CALLAO"
+      }
+    },
+    {
+      "nombres": "MARIA CRISTINA",
+      "apellidos": "RETAMOZO LEZAMA",
+      "mail": "mretamozo@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "2"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166617/golpista.pe/MARIA_CRISTINA_RETAMOZO_LEZAMA_pde8o6.jpg",
+      "partidoPolitico": {
+        "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "PERCI",
+      "apellidos": "RIVAS OCEJO",
+      "mail": "privas@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/PERCI_RIVAS_OCEJO_oscohy.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "AYACUCHO"
+      }
+    },
+    {
+      "nombres": "LUIS ANDRES",
+      "apellidos": "ROEL ALVA",
+      "mail": "lroel@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "0",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166613/golpista.pe/LUIS_ANDRES_ROEL_ALVA_riib3a.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "RICHARD",
+      "apellidos": "RUBIO GARIZA",
+      "mail": "rrubio@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "no voto",
+        "admisionVacancia": "no voto"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166623/golpista.pe/RICHARD_RUBIO_GARIZA_gdzmpz.jpg",
+      "partidoPolitico": {
+        "nombre": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "MONICA ELIZABETH",
+      "apellidos": "SAAVEDRA OCHARAN",
+      "mail": "msaavedra@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "no voto"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/MONICA_ELIZABETH_SAAVEDRA_OCHARAN_x1phnv.jpg",
+      "partidoPolitico": {
+        "nombre": "ACCIÓN POPULAR",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "FRANCISCO RAFAEL",
+      "apellidos": "SAGASTI HOCHHAUSLER",
+      "mail": "fsagasti@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "0",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/FRANCISCO_RAFAEL_SAGASTI_HOCHHAUSLER_zs5zqp.jpg",
+      "partidoPolitico": {
+        "nombre": "PARTIDO MORADO",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "ORESTES POMPEYO",
+      "apellidos": "SANCHEZ LUIS",
+      "mail": "osanchez@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166622/golpista.pe/ORESTES_POMPEYO_SANCHEZ_LUIS_nrvrhu.jpg",
+      "partidoPolitico": {
+        "nombre": "PODEMOS PERU",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "MARIA LUISA",
+      "apellidos": "SILUPU INGA",
+      "mail": "msilupu@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166617/golpista.pe/MARIA_LUISA_SILUPU_INGA_pkue2j.jpg",
+      "partidoPolitico": {
+        "nombre": "FUERZA POPULAR",
+        "departamento": "PIURA"
+      }
+    },
+    {
+      "nombres": "ROCIO YOLANDA ANGELICA SILVA",
+      "apellidos": "SANTISTEBAN MANRIQUE",
+      "mail": "rsilvas@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "0",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166628/golpista.pe/ROCIO_YOLANDA_ANGELICA_SILVA_SANTISTEBAN_MANRIQUE_fu3wdu.jpg",
+      "partidoPolitico": {
+        "nombre": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "ZENAIDA",
+      "apellidos": "SOLIS GUTIERREZ",
+      "mail": "zsolis@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "0",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166589/golpista.pe/ZENAIDA_SOLIS_GUTIERREZ_mnmvvz.jpg",
+      "partidoPolitico": {
+        "nombre": "PARTIDO MORADO",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "FELICITA MADALEINE",
+      "apellidos": "TOCTO GUERRERO",
+      "mail": "ftocto@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/FELICITA_MADALEINE_TOCTO_GUERRERO_dfkgwh.jpg",
+      "partidoPolitico": {
+        "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "departamento": "CAJAMARCA"
+      }
+    },
+    {
+      "nombres": "VALERIA CAROLINA",
+      "apellidos": "VALER COLLADO",
+      "mail": "vvaler@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/VALERIA_CAROLINA_VALER_COLLADO_pn8f4h.jpg",
+      "partidoPolitico": {
+        "nombre": "FUERZA POPULAR",
+        "departamento": "LIMA"
+      }
+    },
+    {
+      "nombres": "MARCO ANTONIO",
+      "apellidos": "VERDE HEIDINGER",
+      "mail": "mverde@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166614/golpista.pe/MARCO_ANTONIO_VERDE_HEIDINGER_f3sq0a.jpg",
+      "partidoPolitico": {
+        "nombre": "ALIANZA PARA EL PROGRESO",
+        "departamento": "PASCO"
+      }
+    },
+    {
+      "nombres": "WIDMAN NAPOLEON",
+      "apellidos": "VIGO GUTIERREZ",
+      "mail": "wvigo@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166588/golpista.pe/WIDMAN_NAPOLEON_VIGO_GUTIERREZ_mly41g.jpg",
+      "partidoPolitico": {
+        "nombre": "FUERZA POPULAR",
+        "departamento": "CAJAMARCA"
+      }
+    },
+    {
+      "nombres": "MARIANO ANDRES",
+      "apellidos": "YUPANQUI MIÑANO",
+      "mail": "myupanqui@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "1"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166617/golpista.pe/MARIANO_ANDRES_YUPANQUI_MI%C3%91ANO_geksty.jpg",
+      "partidoPolitico": {
+        "nombre": "PARTIDO DEMOCRATICO SOMOS PERU",
+        "departamento": "LA LIBERTAD"
+      }
+    },
+    {
+      "nombres": "EDWARD ALEXANDER",
+      "apellidos": "ZARATE ANTON",
+      "mail": "ezarate@congreso.gob.pe",
+      "votos": {
+        "votoVacancia": "1",
+        "admisionVacancia": "0"
+      },
+      "cargoPublico": {
+        "tipo": "Congresista",
+        "activo": true
+      },
+      "denuncias": [],
+      "investigaciones": 0,
+      "imageUrl": "https://res.cloudinary.com/dmki8aqt6/image/upload/v1605166590/golpista.pe/EDWARD_ALEXANDER_ZARATE_ANTON_f24abl.jpg",
+      "partidoPolitico": {
+        "nombre": "FUERZA POPULAR",
+        "departamento": "PIURA"
+      }
+    }
   ]
